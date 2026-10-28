@@ -5,7 +5,7 @@
 Reading [Netflix's series on real time distributed graphs](https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-1-ingesting-and-processing-data-80113e124acc) made me wonder how a
 service should share storage capacity between queries of very different sizes.
 
-I used AI assistance to build the benchmark and draft this article.
+*Written with AI assistance.*
 
 Suppose one query needs three storage reads and another needs 201. The service
 allows 64 reads at a time. If the large query fills the queue first, how long
