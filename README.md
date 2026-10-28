@@ -7,7 +7,8 @@ The completed 24-run local study found that per-query round-robin protected
 small queries during an injected response slowdown, at the cost of more
 large-query timeouts. The configured adaptive limiter did not improve the
 calibrated fixed baseline in this setup. See the [evidence](docs/results.md)
-and [article draft](docs/article-draft.md), including their limitations.
+and [published article](https://medium.com/@vineetsh2108/a-concurrency-limit-is-not-a-scheduling-policy-ccb11b3d1e12),
+including their limitations.
 
 ## Study scope
 
@@ -82,7 +83,7 @@ It models a dependency-response slowdown, not physical Cassandra saturation.
 
 See [methodology](docs/methodology.md) for all contracts, calibration rules,
 known limitations, and prior work. See [results](docs/results.md) and the
-[article draft](docs/article-draft.md) for the recorded local study.
+[article source](docs/article-draft.md) for the recorded local study.
 
 ## Inspect the evidence
 
@@ -93,8 +94,8 @@ so the findings can be inspected without running the benchmark.
 
 The [study evidence release](https://github.com/vibeets2108/mini-rdg/releases/tag/study-20261028-review2)
 contains the full review ZIP, including raw per-query and per-operation data.
-The repository and release are private during review. A GitHub sign-in with
-access to this repository is required.
+The repository and release are public. No GitHub account is required to read
+the source or download the evidence.
 
 To reanalyze the recorded runs without starting containers, download the review
 ZIP from that release and extract it into a separate directory. Run the analyzer
@@ -142,7 +143,7 @@ Prepare a local review ZIP after analysis:
 python3 scripts/package_evidence.py results/study-TIMESTAMP
 ```
 
-It includes implementation, current methodology, article draft, raw results,
+It includes implementation, current methodology, article source, raw results,
 and SHA-256 checksums. It excludes historical session notes and resolved Compose
 files containing machine-specific absolute paths. Creating this archive does
 not upload or publish anything.
@@ -163,7 +164,7 @@ this project's database manually, use `docker compose stop cassandra`.
 
 The GitHub workflow builds, runs unit tests, and checks complete graph results
 against Cassandra; it does not rerun the measured performance study. CI sets
-`CASSANDRA_CPUS=2` to fit the private repository's two-CPU runner. The default
+`CASSANDRA_CPUS=2` so validation also fits two-CPU runners. The default
 remains 4 CPUs, as used for the recorded study. An override changes the resource
 budget and must not be presented as reproducing the same performance conditions.
 
@@ -177,8 +178,8 @@ Third-party dependencies retain their respective licenses.
 The article text in `docs/article-draft.md` is excluded from that license.
 All rights to the article text are reserved unless separately granted.
 
-The repository is private during review. Public release and article publication
-require explicit owner approval. These local measurements do not establish
+The repository and recorded evidence are public, and the accompanying article
+is freely readable on Medium. These local measurements do not establish
 Netflix-scale capacity or undisclosed Netflix internals.
 
 ## Source articles

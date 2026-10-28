@@ -235,9 +235,7 @@ inspecting individual outcomes beyond the results presented here. The evidence
 bundle contains source, raw data from each run, and content checksums for
 study `study-20261028T144619Z`.
 
-*Editorial status: article text and AI assistance disclosure approved on
-2026-10-28, not published. Repository, source snapshot, and evidence links are
-included for publication. The repository remains private and must become public
-with explicit approval before the Medium story is published. The repository's
-MIT license excludes this article text, whose rights are retained. Omit this
-editorial note from the Medium story.*
+*Published on [Medium](https://medium.com/@vineetsh2108/a-concurrency-limit-is-not-a-scheduling-policy-ccb11b3d1e12)
+on 2026-10-28. This source copy retains the results table; the Medium version
+presents the same values in labeled text blocks. The repository's MIT license
+excludes this article text, whose rights are retained.*
