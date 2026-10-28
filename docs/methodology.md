@@ -93,7 +93,8 @@ Choosing a documented public RTT-based implementation is our adaptation,
 not evidence that Netflix's RDG uses it.
 
 Before measured runs, each scheduler calibrates fixed limits 8, 20, and 64 at
-40 queries/second with no injected slowdown and a different random seed.
+40 queries/second with no injected slowdown, using one calibration seed shared
+across all six runs and distinct from the measured-run seeds.
 One common limit is selected for both schedulers. Selection maximizes successful
 queries summed across schedulers, breaking ties by the sum of successful
 small-query and large-query p95 latency across schedulers, then the lower limit.

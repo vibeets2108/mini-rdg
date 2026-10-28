@@ -18,13 +18,14 @@ One completed study compares:
 
 | Scheduling | Fixed limit | Adaptive limit |
 | --- | --- | --- |
-| FIFO | A | B |
-| Round-robin across queries | C | D |
+| FIFO | Fixed / FIFO | Adaptive / FIFO |
+| Round-robin across queries | Fixed / round robin | Adaptive / round robin |
 
-Use the same prepared Cassandra graph, query semantics, arrival traces,
-admission bounds, and resource budgets. Use an existing adaptive algorithm.
-The benchmark must distinguish queue waiting, storage-call time, complete-query
-latency, successful throughput, rejections, and timeouts by query size.
+All four configurations used the same prepared Cassandra graph, query semantics,
+arrival traces, admission bounds, and resource budgets. The adaptive controller
+comes from Netflix's existing concurrency limits library. Measurements separate
+queue waiting, storage-call time, complete-query latency, successful throughput,
+rejections, and timeouts by query size.
 
 The implementation includes a load generator, a graph-query service core,
 replaceable scheduling/limiting strategies, and Cassandra. Streaming ingestion,
@@ -34,7 +35,7 @@ a frontend, application caching, and a full Netflix replica are out of scope.
 
 Requirements: Linux (or WSL2), Docker Engine with Compose, Python 3, and enough
 free resources for the declared container budgets. Cassandra is capped at
-4 CPUs/4 GB; the benchmark at 2 CPUs/2 GB. No host JDK or Maven is required.
+4 CPUs/4 GiB; the benchmark at 2 CPUs/2 GiB. No host JDK or Maven is required.
 Images and Maven dependencies require network access on the first run.
 
 From the project directory in a Linux/WSL terminal:
@@ -90,7 +91,7 @@ The recorded study is
 Its summaries, chart, manifest, and environment measurements are tracked here
 so the findings can be inspected without running the benchmark.
 
-The [study evidence release](https://github.com/vibeets2108/mini-rdg/releases/tag/study-20261028)
+The [study evidence release](https://github.com/vibeets2108/mini-rdg/releases/tag/study-20261028-review2)
 contains the full review ZIP, including raw per-query and per-operation data.
 The repository and release are private during review. A GitHub sign-in with
 access to this repository is required.
@@ -106,6 +107,9 @@ python3 scripts/analyze.py results/study-20261028T144619Z
 The archive includes code as well as data; extracting separately avoids
 overwriting changes in an existing checkout. The release identifies the source
 commit captured in the archive; later repository changes do not rewrite it.
+The [original snapshot](https://github.com/vibeets2108/mini-rdg/releases/tag/study-20261028)
+is retained for provenance. Both snapshots contain the same measured data;
+the newer review archive includes the license and documentation corrections.
 
 Each `results/study-TIMESTAMP` directory contains:
 
@@ -163,9 +167,19 @@ against Cassandra; it does not rerun the measured performance study. CI sets
 remains 4 CPUs, as used for the recorded study. An override changes the resource
 budget and must not be presented as reproducing the same performance conditions.
 
-No public publication has been performed. Publication and license selection
-require owner approval. Do not claim Netflix-scale capacity or undisclosed
-Netflix internals from these local measurements.
+## License and publication
+
+The original benchmark code, tests, build and CI configuration, scripts, and
+synthetic datasets are licensed under the [MIT license](LICENSE). This includes
+the original code and synthetic data in the recorded evidence snapshots.
+Third-party dependencies retain their respective licenses.
+
+The article text in `docs/article-draft.md` is excluded from that license.
+All rights to the article text are reserved unless separately granted.
+
+The repository is private during review. Public release and article publication
+require explicit owner approval. These local measurements do not establish
+Netflix-scale capacity or undisclosed Netflix internals.
 
 ## Source articles
 

@@ -20,7 +20,7 @@ def package(root, study):
         raise FileExistsError(destination)
     paths = [
         root / name for name in (
-            "README.md", "pom.xml", "Dockerfile", "compose.yaml", ".gitignore",
+            "README.md", "LICENSE", "pom.xml", "Dockerfile", "compose.yaml", ".gitignore",
             ".gitattributes", ".dockerignore", "docs/methodology.md",
             "docs/results.md", "docs/article-draft.md",
         )

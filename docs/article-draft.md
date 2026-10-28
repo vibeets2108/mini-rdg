@@ -85,7 +85,8 @@ Each trace selected large queries with 20% probability.
 
 Before the measured runs, I tested fixed limits of 8, 20, and 64 with each
 scheduler. Each calibration run lasted eight seconds at 40 queries per second,
-using a different random seed and no injected slowdown.
+using a separate calibration seed shared across all six candidates and no
+injected slowdown.
 
 The selection rule first favored the limit that completed the most queries
 across both schedulers. If completion counts tied, it favored the lowest sum
@@ -232,4 +233,6 @@ study `study-20261028T144619Z`.
 *Editorial status: article text approved on 2026-10-28, not published. Before publishing, add the
 approved GitHub repository link, a specific code version, and the evidence
 release URL, then update the future tense above. No public destination or
-license has been selected.*
+Medium draft has been selected. The repository's MIT license excludes this
+article text, whose rights are retained. Medium's required AI assistance
+disclosure still needs approval before a Medium version is prepared.*
