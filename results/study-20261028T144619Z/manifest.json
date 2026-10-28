@@ -1,0 +1,87 @@
+{
+  "startedAt" : "2026-10-28T14:47:21.273303962Z",
+  "status" : "complete",
+  "java" : "21.0.7+6-LTS",
+  "os" : "Linux",
+  "arch" : "amd64",
+  "availableProcessors" : 2,
+  "maxHeapBytes" : 1073741824,
+  "cassandraVersion" : "5.0.5",
+  "driver" : "com.datastax.oss:java-driver-core:4.17.0",
+  "limiter" : "com.netflix.concurrency-limits:concurrency-limits-core:0.5.4",
+  "adaptive" : {
+    "min" : 4,
+    "tolerance" : 1.5,
+    "max" : 64,
+    "longWindow" : 20,
+    "smoothing" : 0.2,
+    "algorithm" : "Gradient2Limit",
+    "windowMs" : 500,
+    "windowSamples" : 10,
+    "queueSize" : 4
+  },
+  "settings" : {
+    "calibrationSeconds" : 8,
+    "maxPending" : 25600,
+    "rates" : [ 20, 60 ],
+    "maxQueries" : 128,
+    "seed" : 20261028,
+    "seconds" : 20,
+    "repeats" : 3,
+    "queryDeadlineMs" : 2000
+  },
+  "workload" : "Regular open-loop arrivals; seeded 20% large queries; 2/200 profiles; 8 edges/profile; RF1",
+  "slowdown" : "30ms response-delivery delay after actual Cassandra completion for requests dispatched in middle third; not physical database throttling",
+  "scope" : "Single in-process service/load generator, same-host Cassandra; no RPC measurement or production-scale claim",
+  "calibration" : {
+    "fifo-fixed-8" : {
+      "offered" : 320,
+      "success" : 320,
+      "smallP95" : 239.238034,
+      "largeP95" : 299.250694,
+      "peak" : 8
+    },
+    "fifo-fixed-20" : {
+      "offered" : 320,
+      "success" : 320,
+      "smallP95" : 3.401603,
+      "largeP95" : 15.635515,
+      "peak" : 20
+    },
+    "fifo-fixed-64" : {
+      "offered" : 320,
+      "success" : 320,
+      "smallP95" : 3.280578,
+      "largeP95" : 10.223972,
+      "peak" : 64
+    },
+    "round_robin-fixed-8" : {
+      "offered" : 320,
+      "success" : 320,
+      "smallP95" : 3.56858,
+      "largeP95" : 29.124005,
+      "peak" : 8
+    },
+    "round_robin-fixed-20" : {
+      "offered" : 320,
+      "success" : 320,
+      "smallP95" : 3.182856,
+      "largeP95" : 14.691382,
+      "peak" : 20
+    },
+    "round_robin-fixed-64" : {
+      "offered" : 320,
+      "success" : 320,
+      "smallP95" : 3.019617,
+      "largeP95" : 9.443132,
+      "peak" : 64
+    }
+  },
+  "selectedFixedLimits" : {
+    "FIFO" : 64,
+    "ROUND_ROBIN" : 64
+  },
+  "selectionRule" : "One common limit for both schedulers: maximize successes summed across schedulers; break ties by summed successful small/large p95. Healthy 40 qps, independent seed. Adaptive uses this same initial limit.",
+  "runOrder" : [ "r0-qps20-fifo-adaptive", "r0-qps20-round_robin-adaptive", "r0-qps20-fifo-fixed-64", "r0-qps20-round_robin-fixed-64", "r0-qps60-round_robin-adaptive", "r0-qps60-fifo-adaptive", "r0-qps60-fifo-fixed-64", "r0-qps60-round_robin-fixed-64", "r1-qps20-fifo-fixed-64", "r1-qps20-round_robin-adaptive", "r1-qps20-fifo-adaptive", "r1-qps20-round_robin-fixed-64", "r1-qps60-round_robin-adaptive", "r1-qps60-fifo-adaptive", "r1-qps60-fifo-fixed-64", "r1-qps60-round_robin-fixed-64", "r2-qps20-round_robin-adaptive", "r2-qps20-fifo-fixed-64", "r2-qps20-fifo-adaptive", "r2-qps20-round_robin-fixed-64", "r2-qps60-fifo-fixed-64", "r2-qps60-fifo-adaptive", "r2-qps60-round_robin-adaptive", "r2-qps60-round_robin-fixed-64" ],
+  "finishedAt" : "2026-10-28T14:56:18.818574103Z"
+}

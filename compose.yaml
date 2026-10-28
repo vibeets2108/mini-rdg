@@ -1,0 +1,33 @@
+name: mini-rdg-study
+services:
+  cassandra:
+    image: cassandra:5.0.5
+    cpus: 4
+    mem_limit: 4g
+    environment:
+      MAX_HEAP_SIZE: 1536M
+      HEAP_NEWSIZE: 256M
+      CASSANDRA_CLUSTER_NAME: mini-rdg-study
+      CASSANDRA_DC: datacenter1
+      CASSANDRA_ENDPOINT_SNITCH: GossipingPropertyFileSnitch
+    volumes:
+      - cassandra-data:/var/lib/cassandra
+    healthcheck:
+      test: ["CMD-SHELL", "cqlsh -e 'SELECT release_version FROM system.local'"]
+      interval: 10s
+      timeout: 10s
+      retries: 30
+      start_period: 60s
+  bench:
+    build: .
+    cpus: 2
+    mem_limit: 2g
+    environment:
+      CASSANDRA_HOST: cassandra
+    volumes:
+      - ./results:/results
+    depends_on:
+      cassandra:
+        condition: service_healthy
+volumes:
+  cassandra-data:

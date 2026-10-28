@@ -1,0 +1,2896 @@
+[
+  {
+    "run": "r0-qps20-fifo-adaptive",
+    "rate": 20,
+    "strategy": "FIFO_adaptive",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 104,
+    "success": 104,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 104
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.2,
+    "p50_ms": 2.580745,
+    "p95_ms": 3.164156,
+    "p99_ms": 4.029913,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.873896
+  },
+  {
+    "run": "r0-qps20-fifo-adaptive",
+    "rate": 20,
+    "strategy": "FIFO_adaptive",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 104,
+    "success": 104,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 104
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.2,
+    "p50_ms": 98.572667,
+    "p95_ms": 202.742955,
+    "p99_ms": 288.416082,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.241008
+  },
+  {
+    "run": "r0-qps20-fifo-adaptive",
+    "rate": 20,
+    "strategy": "FIFO_adaptive",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 98,
+    "success": 98,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 98
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.9,
+    "p50_ms": 2.499548,
+    "p95_ms": 3.015185,
+    "p99_ms": 4.180981,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.220486
+  },
+  {
+    "run": "r0-qps20-fifo-adaptive",
+    "rate": 20,
+    "strategy": "FIFO_adaptive",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 30,
+    "success": 30,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 30
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.5,
+    "p50_ms": 8.150162,
+    "p95_ms": 11.414367,
+    "p99_ms": 11.465016,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.183632
+  },
+  {
+    "run": "r0-qps20-fifo-adaptive",
+    "rate": 20,
+    "strategy": "FIFO_adaptive",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 29,
+    "success": 29,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 29
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.45,
+    "p50_ms": 191.414642,
+    "p95_ms": 360.603142,
+    "p99_ms": 361.094859,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.213595
+  },
+  {
+    "run": "r0-qps20-fifo-adaptive",
+    "rate": 20,
+    "strategy": "FIFO_adaptive",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 35,
+    "success": 35,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 35
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.75,
+    "p50_ms": 8.788884,
+    "p95_ms": 10.068249,
+    "p99_ms": 12.974973,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.212596
+  },
+  {
+    "run": "r0-qps20-round_robin-adaptive",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 104,
+    "success": 104,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 104
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.2,
+    "p50_ms": 2.522262,
+    "p95_ms": 2.852741,
+    "p99_ms": 4.120164,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.229027
+  },
+  {
+    "run": "r0-qps20-round_robin-adaptive",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 104,
+    "success": 104,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 104
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.2,
+    "p50_ms": 70.951315,
+    "p95_ms": 90.778311,
+    "p99_ms": 92.126503,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.492482
+  },
+  {
+    "run": "r0-qps20-round_robin-adaptive",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 98,
+    "success": 98,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 98
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.9,
+    "p50_ms": 2.590699,
+    "p95_ms": 6.04067,
+    "p99_ms": 8.221224,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 5.210075
+  },
+  {
+    "run": "r0-qps20-round_robin-adaptive",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 30,
+    "success": 30,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 30
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.5,
+    "p50_ms": 7.603904,
+    "p95_ms": 9.38054,
+    "p99_ms": 11.651643,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.226435
+  },
+  {
+    "run": "r0-qps20-round_robin-adaptive",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 29,
+    "success": 29,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 29
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.45,
+    "p50_ms": 221.926304,
+    "p95_ms": 328.85891,
+    "p99_ms": 329.761465,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.206096
+  },
+  {
+    "run": "r0-qps20-round_robin-adaptive",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 35,
+    "success": 35,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 35
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.75,
+    "p50_ms": 8.475931,
+    "p95_ms": 13.133838,
+    "p99_ms": 14.159275,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 4.735381
+  },
+  {
+    "run": "r0-qps20-fifo-fixed-64",
+    "rate": 20,
+    "strategy": "FIFO_fixed",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 104,
+    "success": 104,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 104
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.2,
+    "p50_ms": 2.899244,
+    "p95_ms": 6.870792,
+    "p99_ms": 7.372162,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 5.123737
+  },
+  {
+    "run": "r0-qps20-fifo-fixed-64",
+    "rate": 20,
+    "strategy": "FIFO_fixed",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 104,
+    "success": 104,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 104
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.2,
+    "p50_ms": 64.962858,
+    "p95_ms": 140.04788,
+    "p99_ms": 141.542402,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.234586
+  },
+  {
+    "run": "r0-qps20-fifo-fixed-64",
+    "rate": 20,
+    "strategy": "FIFO_fixed",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 98,
+    "success": 98,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 98
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.9,
+    "p50_ms": 2.577074,
+    "p95_ms": 3.208283,
+    "p99_ms": 4.228606,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.276158
+  },
+  {
+    "run": "r0-qps20-fifo-fixed-64",
+    "rate": 20,
+    "strategy": "FIFO_fixed",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 30,
+    "success": 30,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 30
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.5,
+    "p50_ms": 8.434466,
+    "p95_ms": 12.543668,
+    "p99_ms": 12.677103,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 4.425932
+  },
+  {
+    "run": "r0-qps20-fifo-fixed-64",
+    "rate": 20,
+    "strategy": "FIFO_fixed",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 29,
+    "success": 29,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 29
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.45,
+    "p50_ms": 159.249416,
+    "p95_ms": 307.777363,
+    "p99_ms": 331.507176,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.219342
+  },
+  {
+    "run": "r0-qps20-fifo-fixed-64",
+    "rate": 20,
+    "strategy": "FIFO_fixed",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 35,
+    "success": 35,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 35
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.75,
+    "p50_ms": 7.831281,
+    "p95_ms": 9.386828,
+    "p99_ms": 12.706953,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.39395
+  },
+  {
+    "run": "r0-qps20-round_robin-fixed-64",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 104,
+    "success": 104,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 104
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.2,
+    "p50_ms": 2.547349,
+    "p95_ms": 3.16579,
+    "p99_ms": 3.395333,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 1.204834
+  },
+  {
+    "run": "r0-qps20-round_robin-fixed-64",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 104,
+    "success": 104,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 104
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.2,
+    "p50_ms": 64.155946,
+    "p95_ms": 91.222089,
+    "p99_ms": 92.052346,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.699031
+  },
+  {
+    "run": "r0-qps20-round_robin-fixed-64",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 98,
+    "success": 98,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 98
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.9,
+    "p50_ms": 2.601755,
+    "p95_ms": 3.332516,
+    "p99_ms": 4.384646,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.488942
+  },
+  {
+    "run": "r0-qps20-round_robin-fixed-64",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 30,
+    "success": 30,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 30
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.5,
+    "p50_ms": 7.24323,
+    "p95_ms": 9.398492,
+    "p99_ms": 10.078341,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.163102
+  },
+  {
+    "run": "r0-qps20-round_robin-fixed-64",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 29,
+    "success": 29,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 29
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.45,
+    "p50_ms": 160.414789,
+    "p95_ms": 272.704266,
+    "p99_ms": 286.09909,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.437839
+  },
+  {
+    "run": "r0-qps20-round_robin-fixed-64",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 35,
+    "success": 35,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 35
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.75,
+    "p50_ms": 7.706965,
+    "p95_ms": 9.27502,
+    "p99_ms": 9.427519,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.372588
+  },
+  {
+    "run": "r0-qps60-round_robin-adaptive",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 306,
+    "success": 306,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 306
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 15.3,
+    "p50_ms": 2.361326,
+    "p95_ms": 3.211891,
+    "p99_ms": 3.819342,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.693777
+  },
+  {
+    "run": "r0-qps60-round_robin-adaptive",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 320,
+    "success": 320,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 320
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 16.0,
+    "p50_ms": 125.32257,
+    "p95_ms": 150.617569,
+    "p99_ms": 154.409545,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 6.749515
+  },
+  {
+    "run": "r0-qps60-round_robin-adaptive",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 315,
+    "success": 315,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 315
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 15.75,
+    "p50_ms": 2.328533,
+    "p95_ms": 3.4537,
+    "p99_ms": 7.017157,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.546582
+  },
+  {
+    "run": "r0-qps60-round_robin-adaptive",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 95,
+    "success": 95,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 95
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.75,
+    "p50_ms": 7.626545,
+    "p95_ms": 9.604989,
+    "p99_ms": 220.743127,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.455936
+  },
+  {
+    "run": "r0-qps60-round_robin-adaptive",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 80,
+    "success": 32,
+    "failures": 48,
+    "statuses": {
+      "SUCCESS": 32,
+      "TIMEOUT": 48
+    },
+    "success_pct": 40.0,
+    "completed_per_second_including_drain": 1.6,
+    "p50_ms": 1142.242383,
+    "p95_ms": 1855.900164,
+    "p99_ms": 1903.565198,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 1.297406
+  },
+  {
+    "run": "r0-qps60-round_robin-adaptive",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 84,
+    "success": 84,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 84
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.2,
+    "p50_ms": 8.632869,
+    "p95_ms": 144.049656,
+    "p99_ms": 203.990453,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.366012
+  },
+  {
+    "run": "r0-qps60-fifo-adaptive",
+    "rate": 60,
+    "strategy": "FIFO_adaptive",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 306,
+    "success": 306,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 306
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 15.3,
+    "p50_ms": 2.43223,
+    "p95_ms": 3.042511,
+    "p99_ms": 3.521051,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.532787
+  },
+  {
+    "run": "r0-qps60-fifo-adaptive",
+    "rate": 60,
+    "strategy": "FIFO_adaptive",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 320,
+    "success": 310,
+    "failures": 10,
+    "statuses": {
+      "SUCCESS": 310,
+      "TIMEOUT": 10
+    },
+    "success_pct": 96.875,
+    "completed_per_second_including_drain": 15.5,
+    "p50_ms": 1216.129718,
+    "p95_ms": 1957.195714,
+    "p99_ms": 1986.028581,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 1.487074
+  },
+  {
+    "run": "r0-qps60-fifo-adaptive",
+    "rate": 60,
+    "strategy": "FIFO_adaptive",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 315,
+    "success": 315,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 315
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 15.75,
+    "p50_ms": 2.277743,
+    "p95_ms": 3.370796,
+    "p99_ms": 126.598901,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.478104
+  },
+  {
+    "run": "r0-qps60-fifo-adaptive",
+    "rate": 60,
+    "strategy": "FIFO_adaptive",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 95,
+    "success": 95,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 95
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.75,
+    "p50_ms": 7.937919,
+    "p95_ms": 10.408993,
+    "p99_ms": 159.243834,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.61875
+  },
+  {
+    "run": "r0-qps60-fifo-adaptive",
+    "rate": 60,
+    "strategy": "FIFO_adaptive",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 80,
+    "success": 54,
+    "failures": 26,
+    "statuses": {
+      "SUCCESS": 54,
+      "TIMEOUT": 26
+    },
+    "success_pct": 67.5,
+    "completed_per_second_including_drain": 2.7,
+    "p50_ms": 1126.111495,
+    "p95_ms": 1960.622575,
+    "p99_ms": 1981.726478,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.305735
+  },
+  {
+    "run": "r0-qps60-fifo-adaptive",
+    "rate": 60,
+    "strategy": "FIFO_adaptive",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 84,
+    "success": 84,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 84
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.2,
+    "p50_ms": 8.82603,
+    "p95_ms": 181.37335,
+    "p99_ms": 238.77106,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.213995
+  },
+  {
+    "run": "r0-qps60-fifo-fixed-64",
+    "rate": 60,
+    "strategy": "FIFO_fixed",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 306,
+    "success": 306,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 306
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 15.3,
+    "p50_ms": 2.328526,
+    "p95_ms": 2.943849,
+    "p99_ms": 3.555224,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.714587
+  },
+  {
+    "run": "r0-qps60-fifo-fixed-64",
+    "rate": 60,
+    "strategy": "FIFO_fixed",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 320,
+    "success": 320,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 320
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 16.0,
+    "p50_ms": 737.410039,
+    "p95_ms": 1512.403218,
+    "p99_ms": 1624.888193,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.754982
+  },
+  {
+    "run": "r0-qps60-fifo-fixed-64",
+    "rate": 60,
+    "strategy": "FIFO_fixed",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 315,
+    "success": 315,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 315
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 15.75,
+    "p50_ms": 2.394686,
+    "p95_ms": 3.342068,
+    "p99_ms": 67.346434,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.988344
+  },
+  {
+    "run": "r0-qps60-fifo-fixed-64",
+    "rate": 60,
+    "strategy": "FIFO_fixed",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 95,
+    "success": 95,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 95
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.75,
+    "p50_ms": 8.185641,
+    "p95_ms": 12.117666,
+    "p99_ms": 160.953072,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.214688
+  },
+  {
+    "run": "r0-qps60-fifo-fixed-64",
+    "rate": 60,
+    "strategy": "FIFO_fixed",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 80,
+    "success": 80,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 80
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.0,
+    "p50_ms": 1030.481908,
+    "p95_ms": 1670.441041,
+    "p99_ms": 1776.444431,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.283063
+  },
+  {
+    "run": "r0-qps60-fifo-fixed-64",
+    "rate": 60,
+    "strategy": "FIFO_fixed",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 84,
+    "success": 84,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 84
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.2,
+    "p50_ms": 8.297568,
+    "p95_ms": 134.021194,
+    "p99_ms": 174.602936,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.535019
+  },
+  {
+    "run": "r0-qps60-round_robin-fixed-64",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 306,
+    "success": 306,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 306
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 15.3,
+    "p50_ms": 2.35855,
+    "p95_ms": 2.934376,
+    "p99_ms": 3.708003,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.688397
+  },
+  {
+    "run": "r0-qps60-round_robin-fixed-64",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 320,
+    "success": 320,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 320
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 16.0,
+    "p50_ms": 91.060051,
+    "p95_ms": 120.542909,
+    "p99_ms": 124.634789,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 1.27517
+  },
+  {
+    "run": "r0-qps60-round_robin-fixed-64",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 315,
+    "success": 315,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 315
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 15.75,
+    "p50_ms": 2.205931,
+    "p95_ms": 2.94095,
+    "p99_ms": 6.876736,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.499953
+  },
+  {
+    "run": "r0-qps60-round_robin-fixed-64",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 95,
+    "success": 95,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 95
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.75,
+    "p50_ms": 7.929577,
+    "p95_ms": 10.065881,
+    "p99_ms": 221.916069,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.328079
+  },
+  {
+    "run": "r0-qps60-round_robin-fixed-64",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 80,
+    "success": 54,
+    "failures": 26,
+    "statuses": {
+      "SUCCESS": 54,
+      "TIMEOUT": 26
+    },
+    "success_pct": 67.5,
+    "completed_per_second_including_drain": 2.7,
+    "p50_ms": 1150.335361,
+    "p95_ms": 1951.484137,
+    "p99_ms": 1995.888141,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.248981
+  },
+  {
+    "run": "r0-qps60-round_robin-fixed-64",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 84,
+    "success": 84,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 84
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.2,
+    "p50_ms": 7.933842,
+    "p95_ms": 89.278063,
+    "p99_ms": 145.738642,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 1.97501
+  },
+  {
+    "run": "r1-qps20-fifo-fixed-64",
+    "rate": 20,
+    "strategy": "FIFO_fixed",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 106,
+    "success": 106,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 106
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.3,
+    "p50_ms": 2.48091,
+    "p95_ms": 3.067358,
+    "p99_ms": 3.646468,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.867197
+  },
+  {
+    "run": "r1-qps20-fifo-fixed-64",
+    "rate": 20,
+    "strategy": "FIFO_fixed",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 110,
+    "success": 110,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 110
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.5,
+    "p50_ms": 63.740938,
+    "p95_ms": 151.197222,
+    "p99_ms": 228.783844,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.703906
+  },
+  {
+    "run": "r1-qps20-fifo-fixed-64",
+    "rate": 20,
+    "strategy": "FIFO_fixed",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 103,
+    "success": 103,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 103
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.15,
+    "p50_ms": 2.385948,
+    "p95_ms": 2.948772,
+    "p99_ms": 3.829939,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.797465
+  },
+  {
+    "run": "r1-qps20-fifo-fixed-64",
+    "rate": 20,
+    "strategy": "FIFO_fixed",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 28,
+    "success": 28,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 28
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.4,
+    "p50_ms": 7.376909,
+    "p95_ms": 10.658949,
+    "p99_ms": 11.159186,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.359776
+  },
+  {
+    "run": "r1-qps20-fifo-fixed-64",
+    "rate": 20,
+    "strategy": "FIFO_fixed",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 23,
+    "success": 23,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 23
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.15,
+    "p50_ms": 162.213428,
+    "p95_ms": 328.537957,
+    "p99_ms": 350.070259,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.511787
+  },
+  {
+    "run": "r1-qps20-fifo-fixed-64",
+    "rate": 20,
+    "strategy": "FIFO_fixed",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 30,
+    "success": 30,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 30
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.5,
+    "p50_ms": 7.131529,
+    "p95_ms": 9.246245,
+    "p99_ms": 9.733849,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.320833
+  },
+  {
+    "run": "r1-qps20-round_robin-adaptive",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 106,
+    "success": 106,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 106
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.3,
+    "p50_ms": 2.525663,
+    "p95_ms": 2.982372,
+    "p99_ms": 3.813591,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.228584
+  },
+  {
+    "run": "r1-qps20-round_robin-adaptive",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 110,
+    "success": 110,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 110
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.5,
+    "p50_ms": 63.283435,
+    "p95_ms": 90.455439,
+    "p99_ms": 92.94173,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.225642
+  },
+  {
+    "run": "r1-qps20-round_robin-adaptive",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 103,
+    "success": 103,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 103
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.15,
+    "p50_ms": 2.556978,
+    "p95_ms": 3.515349,
+    "p99_ms": 4.131913,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 1.311479
+  },
+  {
+    "run": "r1-qps20-round_robin-adaptive",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 28,
+    "success": 28,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 28
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.4,
+    "p50_ms": 7.537602,
+    "p95_ms": 9.11883,
+    "p99_ms": 9.176597,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.179547
+  },
+  {
+    "run": "r1-qps20-round_robin-adaptive",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 23,
+    "success": 23,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 23
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.15,
+    "p50_ms": 254.65082,
+    "p95_ms": 457.35538,
+    "p99_ms": 552.400279,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.20066
+  },
+  {
+    "run": "r1-qps20-round_robin-adaptive",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 30,
+    "success": 30,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 30
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.5,
+    "p50_ms": 8.660592,
+    "p95_ms": 10.359746,
+    "p99_ms": 10.669299,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 1.346702
+  },
+  {
+    "run": "r1-qps20-fifo-adaptive",
+    "rate": 20,
+    "strategy": "FIFO_adaptive",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 106,
+    "success": 106,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 106
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.3,
+    "p50_ms": 2.682011,
+    "p95_ms": 3.459757,
+    "p99_ms": 4.403311,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.935697
+  },
+  {
+    "run": "r1-qps20-fifo-adaptive",
+    "rate": 20,
+    "strategy": "FIFO_adaptive",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 110,
+    "success": 110,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 110
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.5,
+    "p50_ms": 63.379749,
+    "p95_ms": 211.856711,
+    "p99_ms": 306.265229,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.308222
+  },
+  {
+    "run": "r1-qps20-fifo-adaptive",
+    "rate": 20,
+    "strategy": "FIFO_adaptive",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 103,
+    "success": 103,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 103
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.15,
+    "p50_ms": 2.507275,
+    "p95_ms": 2.875529,
+    "p99_ms": 3.807539,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.205081
+  },
+  {
+    "run": "r1-qps20-fifo-adaptive",
+    "rate": 20,
+    "strategy": "FIFO_adaptive",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 28,
+    "success": 28,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 28
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.4,
+    "p50_ms": 7.422804,
+    "p95_ms": 9.823136,
+    "p99_ms": 12.329662,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.746051
+  },
+  {
+    "run": "r1-qps20-fifo-adaptive",
+    "rate": 20,
+    "strategy": "FIFO_adaptive",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 23,
+    "success": 23,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 23
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.15,
+    "p50_ms": 222.873998,
+    "p95_ms": 405.052572,
+    "p99_ms": 417.77296,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.319218
+  },
+  {
+    "run": "r1-qps20-fifo-adaptive",
+    "rate": 20,
+    "strategy": "FIFO_adaptive",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 30,
+    "success": 30,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 30
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.5,
+    "p50_ms": 8.445481,
+    "p95_ms": 10.339049,
+    "p99_ms": 13.856475,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.199528
+  },
+  {
+    "run": "r1-qps20-round_robin-fixed-64",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 106,
+    "success": 106,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 106
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.3,
+    "p50_ms": 2.565962,
+    "p95_ms": 3.253459,
+    "p99_ms": 3.750181,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.281254
+  },
+  {
+    "run": "r1-qps20-round_robin-fixed-64",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 110,
+    "success": 110,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 110
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.5,
+    "p50_ms": 63.962783,
+    "p95_ms": 89.108135,
+    "p99_ms": 92.992855,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.852374
+  },
+  {
+    "run": "r1-qps20-round_robin-fixed-64",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 103,
+    "success": 103,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 103
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.15,
+    "p50_ms": 2.461762,
+    "p95_ms": 3.038589,
+    "p99_ms": 3.769846,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.746249
+  },
+  {
+    "run": "r1-qps20-round_robin-fixed-64",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 28,
+    "success": 28,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 28
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.4,
+    "p50_ms": 7.440365,
+    "p95_ms": 8.917861,
+    "p99_ms": 9.694658,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.240528
+  },
+  {
+    "run": "r1-qps20-round_robin-fixed-64",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 23,
+    "success": 23,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 23
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.15,
+    "p50_ms": 162.045742,
+    "p95_ms": 328.274247,
+    "p99_ms": 338.954512,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.78282
+  },
+  {
+    "run": "r1-qps20-round_robin-fixed-64",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 30,
+    "success": 30,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 30
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.5,
+    "p50_ms": 8.363689,
+    "p95_ms": 10.594089,
+    "p99_ms": 12.700798,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.72518
+  },
+  {
+    "run": "r1-qps60-round_robin-adaptive",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 320,
+    "success": 320,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 320
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 16.0,
+    "p50_ms": 2.295053,
+    "p95_ms": 2.950863,
+    "p99_ms": 4.042053,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.377748
+  },
+  {
+    "run": "r1-qps60-round_robin-adaptive",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 319,
+    "success": 319,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 319
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 15.95,
+    "p50_ms": 106.916654,
+    "p95_ms": 132.917931,
+    "p99_ms": 146.042242,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.368328
+  },
+  {
+    "run": "r1-qps60-round_robin-adaptive",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 319,
+    "success": 319,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 319
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 15.95,
+    "p50_ms": 2.274763,
+    "p95_ms": 4.600691,
+    "p99_ms": 10.713682,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 6.086346
+  },
+  {
+    "run": "r1-qps60-round_robin-adaptive",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 81,
+    "success": 81,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 81
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.05,
+    "p50_ms": 8.065532,
+    "p95_ms": 10.700697,
+    "p99_ms": 11.896548,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.213788
+  },
+  {
+    "run": "r1-qps60-round_robin-adaptive",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 81,
+    "success": 37,
+    "failures": 44,
+    "statuses": {
+      "SUCCESS": 37,
+      "TIMEOUT": 44
+    },
+    "success_pct": 45.67901234567901,
+    "completed_per_second_including_drain": 1.85,
+    "p50_ms": 997.337714,
+    "p95_ms": 1950.335771,
+    "p99_ms": 1965.208819,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.193545
+  },
+  {
+    "run": "r1-qps60-round_robin-adaptive",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 80,
+    "success": 80,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 80
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.0,
+    "p50_ms": 8.164837,
+    "p95_ms": 11.065246,
+    "p99_ms": 132.280556,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.208397
+  },
+  {
+    "run": "r1-qps60-fifo-adaptive",
+    "rate": 60,
+    "strategy": "FIFO_adaptive",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 320,
+    "success": 320,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 320
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 16.0,
+    "p50_ms": 2.432157,
+    "p95_ms": 3.127929,
+    "p99_ms": 4.140422,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.474566
+  },
+  {
+    "run": "r1-qps60-fifo-adaptive",
+    "rate": 60,
+    "strategy": "FIFO_adaptive",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 319,
+    "success": 315,
+    "failures": 4,
+    "statuses": {
+      "SUCCESS": 315,
+      "TIMEOUT": 4
+    },
+    "success_pct": 98.74608150470219,
+    "completed_per_second_including_drain": 15.75,
+    "p50_ms": 1520.339372,
+    "p95_ms": 1921.613738,
+    "p99_ms": 1971.600528,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 1.145224
+  },
+  {
+    "run": "r1-qps60-fifo-adaptive",
+    "rate": 60,
+    "strategy": "FIFO_adaptive",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 319,
+    "success": 319,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 319
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 15.95,
+    "p50_ms": 2.290264,
+    "p95_ms": 35.810664,
+    "p99_ms": 252.44282,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.58366
+  },
+  {
+    "run": "r1-qps60-fifo-adaptive",
+    "rate": 60,
+    "strategy": "FIFO_adaptive",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 81,
+    "success": 81,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 81
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.05,
+    "p50_ms": 7.982205,
+    "p95_ms": 10.258279,
+    "p99_ms": 14.450889,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.496224
+  },
+  {
+    "run": "r1-qps60-fifo-adaptive",
+    "rate": 60,
+    "strategy": "FIFO_adaptive",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 81,
+    "success": 63,
+    "failures": 18,
+    "statuses": {
+      "SUCCESS": 63,
+      "TIMEOUT": 18
+    },
+    "success_pct": 77.77777777777777,
+    "completed_per_second_including_drain": 3.15,
+    "p50_ms": 963.255803,
+    "p95_ms": 1941.717212,
+    "p99_ms": 1976.741589,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.271377
+  },
+  {
+    "run": "r1-qps60-fifo-adaptive",
+    "rate": 60,
+    "strategy": "FIFO_adaptive",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 80,
+    "success": 80,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 80
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.0,
+    "p50_ms": 8.695261,
+    "p95_ms": 11.334235,
+    "p99_ms": 204.146183,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.311811
+  },
+  {
+    "run": "r1-qps60-fifo-fixed-64",
+    "rate": 60,
+    "strategy": "FIFO_fixed",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 320,
+    "success": 320,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 320
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 16.0,
+    "p50_ms": 2.290154,
+    "p95_ms": 2.911026,
+    "p99_ms": 3.566252,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.435349
+  },
+  {
+    "run": "r1-qps60-fifo-fixed-64",
+    "rate": 60,
+    "strategy": "FIFO_fixed",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 319,
+    "success": 319,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 319
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 15.95,
+    "p50_ms": 782.891169,
+    "p95_ms": 1062.667215,
+    "p99_ms": 1126.119198,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.288029
+  },
+  {
+    "run": "r1-qps60-fifo-fixed-64",
+    "rate": 60,
+    "strategy": "FIFO_fixed",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 319,
+    "success": 319,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 319
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 15.95,
+    "p50_ms": 2.486646,
+    "p95_ms": 3.991043,
+    "p99_ms": 135.059159,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.736751
+  },
+  {
+    "run": "r1-qps60-fifo-fixed-64",
+    "rate": 60,
+    "strategy": "FIFO_fixed",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 81,
+    "success": 81,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 81
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.05,
+    "p50_ms": 7.980241,
+    "p95_ms": 10.588337,
+    "p99_ms": 13.655502,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.92514
+  },
+  {
+    "run": "r1-qps60-fifo-fixed-64",
+    "rate": 60,
+    "strategy": "FIFO_fixed",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 81,
+    "success": 81,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 81
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.05,
+    "p50_ms": 854.619551,
+    "p95_ms": 1162.75384,
+    "p99_ms": 1303.609514,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.222624
+  },
+  {
+    "run": "r1-qps60-fifo-fixed-64",
+    "rate": 60,
+    "strategy": "FIFO_fixed",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 80,
+    "success": 80,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 80
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.0,
+    "p50_ms": 8.173858,
+    "p95_ms": 11.857133,
+    "p99_ms": 58.710583,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.461983
+  },
+  {
+    "run": "r1-qps60-round_robin-fixed-64",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 320,
+    "success": 320,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 320
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 16.0,
+    "p50_ms": 2.40112,
+    "p95_ms": 3.172031,
+    "p99_ms": 4.128434,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 1.445495
+  },
+  {
+    "run": "r1-qps60-round_robin-fixed-64",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 319,
+    "success": 319,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 319
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 15.95,
+    "p50_ms": 85.297742,
+    "p95_ms": 109.607989,
+    "p99_ms": 122.083805,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.820331
+  },
+  {
+    "run": "r1-qps60-round_robin-fixed-64",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 319,
+    "success": 319,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 319
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 15.95,
+    "p50_ms": 2.355664,
+    "p95_ms": 3.709132,
+    "p99_ms": 13.185716,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.893478
+  },
+  {
+    "run": "r1-qps60-round_robin-fixed-64",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 81,
+    "success": 81,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 81
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.05,
+    "p50_ms": 8.351153,
+    "p95_ms": 10.522816,
+    "p99_ms": 15.408719,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.909427
+  },
+  {
+    "run": "r1-qps60-round_robin-fixed-64",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 81,
+    "success": 77,
+    "failures": 4,
+    "statuses": {
+      "SUCCESS": 77,
+      "TIMEOUT": 4
+    },
+    "success_pct": 95.06172839506173,
+    "completed_per_second_including_drain": 3.85,
+    "p50_ms": 1592.99076,
+    "p95_ms": 1919.625246,
+    "p99_ms": 1992.732707,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.244468
+  },
+  {
+    "run": "r1-qps60-round_robin-fixed-64",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 80,
+    "success": 80,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 80
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 4.0,
+    "p50_ms": 7.908488,
+    "p95_ms": 11.121847,
+    "p99_ms": 78.719079,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.41816
+  },
+  {
+    "run": "r2-qps20-round_robin-adaptive",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 116,
+    "success": 116,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 116
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.8,
+    "p50_ms": 2.573691,
+    "p95_ms": 3.586004,
+    "p99_ms": 4.050004,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 1.016084
+  },
+  {
+    "run": "r2-qps20-round_robin-adaptive",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 110,
+    "success": 110,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 110
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.5,
+    "p50_ms": 64.178067,
+    "p95_ms": 91.262489,
+    "p99_ms": 93.230216,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.817909
+  },
+  {
+    "run": "r2-qps20-round_robin-adaptive",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 112,
+    "success": 112,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 112
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.6,
+    "p50_ms": 2.455967,
+    "p95_ms": 2.924106,
+    "p99_ms": 3.561896,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.388182
+  },
+  {
+    "run": "r2-qps20-round_robin-adaptive",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 18,
+    "success": 18,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 18
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 0.9,
+    "p50_ms": 7.694076,
+    "p95_ms": 9.428833,
+    "p99_ms": 9.428833,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 1.186074
+  },
+  {
+    "run": "r2-qps20-round_robin-adaptive",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 23,
+    "success": 23,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 23
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.15,
+    "p50_ms": 223.102477,
+    "p95_ms": 712.702823,
+    "p99_ms": 730.765411,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.476391
+  },
+  {
+    "run": "r2-qps20-round_robin-adaptive",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 21,
+    "success": 21,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 21
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.05,
+    "p50_ms": 8.168418,
+    "p95_ms": 9.81422,
+    "p99_ms": 10.183317,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.327157
+  },
+  {
+    "run": "r2-qps20-fifo-fixed-64",
+    "rate": 20,
+    "strategy": "FIFO_fixed",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 116,
+    "success": 116,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 116
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.8,
+    "p50_ms": 2.460368,
+    "p95_ms": 3.000315,
+    "p99_ms": 3.393363,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.605077
+  },
+  {
+    "run": "r2-qps20-fifo-fixed-64",
+    "rate": 20,
+    "strategy": "FIFO_fixed",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 110,
+    "success": 110,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 110
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.5,
+    "p50_ms": 63.146389,
+    "p95_ms": 140.343683,
+    "p99_ms": 229.38956,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.221366
+  },
+  {
+    "run": "r2-qps20-fifo-fixed-64",
+    "rate": 20,
+    "strategy": "FIFO_fixed",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 112,
+    "success": 112,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 112
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.6,
+    "p50_ms": 2.399941,
+    "p95_ms": 3.279662,
+    "p99_ms": 4.196706,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 1.137805
+  },
+  {
+    "run": "r2-qps20-fifo-fixed-64",
+    "rate": 20,
+    "strategy": "FIFO_fixed",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 18,
+    "success": 18,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 18
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 0.9,
+    "p50_ms": 7.209216,
+    "p95_ms": 11.82788,
+    "p99_ms": 11.82788,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.158536
+  },
+  {
+    "run": "r2-qps20-fifo-fixed-64",
+    "rate": 20,
+    "strategy": "FIFO_fixed",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 23,
+    "success": 23,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 23
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.15,
+    "p50_ms": 158.187778,
+    "p95_ms": 233.613834,
+    "p99_ms": 347.606492,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.226137
+  },
+  {
+    "run": "r2-qps20-fifo-fixed-64",
+    "rate": 20,
+    "strategy": "FIFO_fixed",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 21,
+    "success": 21,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 21
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.05,
+    "p50_ms": 7.34699,
+    "p95_ms": 8.536086,
+    "p99_ms": 9.559283,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.974232
+  },
+  {
+    "run": "r2-qps20-fifo-adaptive",
+    "rate": 20,
+    "strategy": "FIFO_adaptive",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 116,
+    "success": 116,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 116
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.8,
+    "p50_ms": 2.547478,
+    "p95_ms": 3.402934,
+    "p99_ms": 4.080509,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 1.003631
+  },
+  {
+    "run": "r2-qps20-fifo-adaptive",
+    "rate": 20,
+    "strategy": "FIFO_adaptive",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 110,
+    "success": 110,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 110
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.5,
+    "p50_ms": 67.415028,
+    "p95_ms": 209.770584,
+    "p99_ms": 364.402043,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.286495
+  },
+  {
+    "run": "r2-qps20-fifo-adaptive",
+    "rate": 20,
+    "strategy": "FIFO_adaptive",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 112,
+    "success": 112,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 112
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.6,
+    "p50_ms": 2.431659,
+    "p95_ms": 3.278396,
+    "p99_ms": 4.165746,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.281268
+  },
+  {
+    "run": "r2-qps20-fifo-adaptive",
+    "rate": 20,
+    "strategy": "FIFO_adaptive",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 18,
+    "success": 18,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 18
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 0.9,
+    "p50_ms": 7.187202,
+    "p95_ms": 9.109912,
+    "p99_ms": 9.109912,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.830272
+  },
+  {
+    "run": "r2-qps20-fifo-adaptive",
+    "rate": 20,
+    "strategy": "FIFO_adaptive",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 23,
+    "success": 23,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 23
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.15,
+    "p50_ms": 220.440759,
+    "p95_ms": 506.074806,
+    "p99_ms": 614.618102,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.19917
+  },
+  {
+    "run": "r2-qps20-fifo-adaptive",
+    "rate": 20,
+    "strategy": "FIFO_adaptive",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 21,
+    "success": 21,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 21
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.05,
+    "p50_ms": 8.238046,
+    "p95_ms": 10.412581,
+    "p99_ms": 10.785442,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.204816
+  },
+  {
+    "run": "r2-qps20-round_robin-fixed-64",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 116,
+    "success": 116,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 116
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.8,
+    "p50_ms": 2.506744,
+    "p95_ms": 3.147147,
+    "p99_ms": 4.180841,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.201698
+  },
+  {
+    "run": "r2-qps20-round_robin-fixed-64",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 110,
+    "success": 110,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 110
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.5,
+    "p50_ms": 63.721388,
+    "p95_ms": 89.717098,
+    "p99_ms": 91.001894,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.717835
+  },
+  {
+    "run": "r2-qps20-round_robin-fixed-64",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 112,
+    "success": 112,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 112
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 5.6,
+    "p50_ms": 2.598679,
+    "p95_ms": 3.391639,
+    "p99_ms": 3.878828,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.589335
+  },
+  {
+    "run": "r2-qps20-round_robin-fixed-64",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 18,
+    "success": 18,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 18
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 0.9,
+    "p50_ms": 8.076417,
+    "p95_ms": 9.92173,
+    "p99_ms": 9.92173,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.205476
+  },
+  {
+    "run": "r2-qps20-round_robin-fixed-64",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 23,
+    "success": 23,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 23
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.15,
+    "p50_ms": 161.044121,
+    "p95_ms": 289.23946,
+    "p99_ms": 291.294268,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.518127
+  },
+  {
+    "run": "r2-qps20-round_robin-fixed-64",
+    "rate": 20,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 21,
+    "success": 21,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 21
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 1.05,
+    "p50_ms": 7.641483,
+    "p95_ms": 8.800119,
+    "p99_ms": 9.774563,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.581918
+  },
+  {
+    "run": "r2-qps60-fifo-fixed-64",
+    "rate": 60,
+    "strategy": "FIFO_fixed",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 338,
+    "success": 338,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 338
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 16.9,
+    "p50_ms": 2.187011,
+    "p95_ms": 2.799048,
+    "p99_ms": 3.587163,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.42018
+  },
+  {
+    "run": "r2-qps60-fifo-fixed-64",
+    "rate": 60,
+    "strategy": "FIFO_fixed",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 311,
+    "success": 307,
+    "failures": 4,
+    "statuses": {
+      "SUCCESS": 307,
+      "TIMEOUT": 4
+    },
+    "success_pct": 98.71382636655949,
+    "completed_per_second_including_drain": 15.35,
+    "p50_ms": 756.703828,
+    "p95_ms": 1646.853988,
+    "p99_ms": 1846.953088,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.295256
+  },
+  {
+    "run": "r2-qps60-fifo-fixed-64",
+    "rate": 60,
+    "strategy": "FIFO_fixed",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 330,
+    "success": 330,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 330
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 16.5,
+    "p50_ms": 2.265585,
+    "p95_ms": 3.091399,
+    "p99_ms": 102.307098,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.510422
+  },
+  {
+    "run": "r2-qps60-fifo-fixed-64",
+    "rate": 60,
+    "strategy": "FIFO_fixed",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 63,
+    "success": 63,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 63
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 3.15,
+    "p50_ms": 7.312269,
+    "p95_ms": 9.077603,
+    "p99_ms": 157.681129,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.334395
+  },
+  {
+    "run": "r2-qps60-fifo-fixed-64",
+    "rate": 60,
+    "strategy": "FIFO_fixed",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 89,
+    "success": 86,
+    "failures": 3,
+    "statuses": {
+      "SUCCESS": 86,
+      "TIMEOUT": 3
+    },
+    "success_pct": 96.62921348314607,
+    "completed_per_second_including_drain": 4.3,
+    "p50_ms": 992.901743,
+    "p95_ms": 1809.771367,
+    "p99_ms": 1968.625237,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.255159
+  },
+  {
+    "run": "r2-qps60-fifo-fixed-64",
+    "rate": 60,
+    "strategy": "FIFO_fixed",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 69,
+    "success": 69,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 69
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 3.45,
+    "p50_ms": 8.14696,
+    "p95_ms": 116.001354,
+    "p99_ms": 206.099628,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.304119
+  },
+  {
+    "run": "r2-qps60-fifo-adaptive",
+    "rate": 60,
+    "strategy": "FIFO_adaptive",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 338,
+    "success": 338,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 338
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 16.9,
+    "p50_ms": 2.37468,
+    "p95_ms": 3.042544,
+    "p99_ms": 3.834968,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.536848
+  },
+  {
+    "run": "r2-qps60-fifo-adaptive",
+    "rate": 60,
+    "strategy": "FIFO_adaptive",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 311,
+    "success": 297,
+    "failures": 14,
+    "statuses": {
+      "SUCCESS": 297,
+      "TIMEOUT": 14
+    },
+    "success_pct": 95.49839228295819,
+    "completed_per_second_including_drain": 14.85,
+    "p50_ms": 1209.25397,
+    "p95_ms": 1964.812525,
+    "p99_ms": 1997.571389,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.405553
+  },
+  {
+    "run": "r2-qps60-fifo-adaptive",
+    "rate": 60,
+    "strategy": "FIFO_adaptive",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 330,
+    "success": 330,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 330
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 16.5,
+    "p50_ms": 2.212682,
+    "p95_ms": 42.514037,
+    "p99_ms": 236.728405,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.954158
+  },
+  {
+    "run": "r2-qps60-fifo-adaptive",
+    "rate": 60,
+    "strategy": "FIFO_adaptive",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 63,
+    "success": 63,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 63
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 3.15,
+    "p50_ms": 8.075531,
+    "p95_ms": 11.033492,
+    "p99_ms": 158.282772,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.511664
+  },
+  {
+    "run": "r2-qps60-fifo-adaptive",
+    "rate": 60,
+    "strategy": "FIFO_adaptive",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 89,
+    "success": 56,
+    "failures": 33,
+    "statuses": {
+      "SUCCESS": 56,
+      "TIMEOUT": 33
+    },
+    "success_pct": 62.92134831460674,
+    "completed_per_second_including_drain": 2.8,
+    "p50_ms": 1070.449467,
+    "p95_ms": 1880.443761,
+    "p99_ms": 1930.866587,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 1.043139
+  },
+  {
+    "run": "r2-qps60-fifo-adaptive",
+    "rate": 60,
+    "strategy": "FIFO_adaptive",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 69,
+    "success": 69,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 69
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 3.45,
+    "p50_ms": 8.763229,
+    "p95_ms": 263.948968,
+    "p99_ms": 376.553272,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.395289
+  },
+  {
+    "run": "r2-qps60-round_robin-adaptive",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 338,
+    "success": 338,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 338
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 16.9,
+    "p50_ms": 2.264523,
+    "p95_ms": 2.916638,
+    "p99_ms": 3.890466,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.396598
+  },
+  {
+    "run": "r2-qps60-round_robin-adaptive",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 311,
+    "success": 311,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 311
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 15.55,
+    "p50_ms": 128.382809,
+    "p95_ms": 153.655714,
+    "p99_ms": 156.127994,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.691011
+  },
+  {
+    "run": "r2-qps60-round_robin-adaptive",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 330,
+    "success": 330,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 330
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 16.5,
+    "p50_ms": 2.518038,
+    "p95_ms": 3.554466,
+    "p99_ms": 11.116082,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.715546
+  },
+  {
+    "run": "r2-qps60-round_robin-adaptive",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 63,
+    "success": 63,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 63
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 3.15,
+    "p50_ms": 7.690491,
+    "p95_ms": 9.158894,
+    "p99_ms": 288.397385,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.219931
+  },
+  {
+    "run": "r2-qps60-round_robin-adaptive",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 89,
+    "success": 37,
+    "failures": 52,
+    "statuses": {
+      "SUCCESS": 37,
+      "TIMEOUT": 52
+    },
+    "success_pct": 41.57303370786517,
+    "completed_per_second_including_drain": 1.85,
+    "p50_ms": 1096.157005,
+    "p95_ms": 1932.252366,
+    "p99_ms": 1963.287575,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.370389
+  },
+  {
+    "run": "r2-qps60-round_robin-adaptive",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_adaptive",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 69,
+    "success": 69,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 69
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 3.45,
+    "p50_ms": 9.819164,
+    "p95_ms": 213.32155,
+    "p99_ms": 296.832203,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.451539
+  },
+  {
+    "run": "r2-qps60-round_robin-fixed-64",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "small",
+    "phase_by_arrival": "healthy",
+    "offered": 338,
+    "success": 338,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 338
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 16.9,
+    "p50_ms": 2.310514,
+    "p95_ms": 3.025669,
+    "p99_ms": 3.722941,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.527913
+  },
+  {
+    "run": "r2-qps60-round_robin-fixed-64",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "small",
+    "phase_by_arrival": "slowdown",
+    "offered": 311,
+    "success": 311,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 311
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 15.55,
+    "p50_ms": 95.307586,
+    "p95_ms": 119.986066,
+    "p99_ms": 124.41032,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.94001
+  },
+  {
+    "run": "r2-qps60-round_robin-fixed-64",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "small",
+    "phase_by_arrival": "recovery",
+    "offered": 330,
+    "success": 330,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 330
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 16.5,
+    "p50_ms": 2.252479,
+    "p95_ms": 3.052928,
+    "p99_ms": 11.039675,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 1.043632
+  },
+  {
+    "run": "r2-qps60-round_robin-fixed-64",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "large",
+    "phase_by_arrival": "healthy",
+    "offered": 63,
+    "success": 63,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 63
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 3.15,
+    "p50_ms": 7.904464,
+    "p95_ms": 12.493055,
+    "p99_ms": 283.860068,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 1.22072
+  },
+  {
+    "run": "r2-qps60-round_robin-fixed-64",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "large",
+    "phase_by_arrival": "slowdown",
+    "offered": 89,
+    "success": 49,
+    "failures": 40,
+    "statuses": {
+      "SUCCESS": 49,
+      "TIMEOUT": 40
+    },
+    "success_pct": 55.056179775280896,
+    "completed_per_second_including_drain": 2.45,
+    "p50_ms": 1000.946789,
+    "p95_ms": 1824.454874,
+    "p99_ms": 1871.617067,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 1.041159
+  },
+  {
+    "run": "r2-qps60-round_robin-fixed-64",
+    "rate": 60,
+    "strategy": "ROUND_ROBIN_fixed",
+    "class": "large",
+    "phase_by_arrival": "recovery",
+    "offered": 69,
+    "success": 69,
+    "failures": 0,
+    "statuses": {
+      "SUCCESS": 69
+    },
+    "success_pct": 100.0,
+    "completed_per_second_including_drain": 3.45,
+    "p50_ms": 7.864909,
+    "p95_ms": 144.294991,
+    "p99_ms": 226.507697,
+    "p99_samples_below_1000": true,
+    "max_generator_lag_ms": 0.229775
+  }
+]

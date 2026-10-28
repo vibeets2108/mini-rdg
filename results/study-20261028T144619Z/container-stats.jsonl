@@ -1,0 +1,396 @@
+{"sample_time":"2026-10-28T14:47:18Z"}
+{"BlockIO":"215MB / 18.2MB","CPUPerc":"140.71%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.67%","MemUsage":"2.067GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"3.06MB / 1.54MB","PIDs":"162"}
+{"sample_time":"2026-10-28T14:47:22Z"}
+{"BlockIO":"0B / 94.2kB","CPUPerc":"71.55%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"8.00%","MemUsage":"163.9MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"880kB / 435kB","PIDs":"24"}
+{"BlockIO":"215MB / 18.3MB","CPUPerc":"401.83%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"52.93%","MemUsage":"2.117GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"3.38MB / 2.23MB","PIDs":"176"}
+{"sample_time":"2026-10-28T14:47:26Z"}
+{"BlockIO":"0B / 94.2kB","CPUPerc":"67.48%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"11.39%","MemUsage":"233.3MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"2.43MB / 1.34MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.3MB","CPUPerc":"112.54%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"52.60%","MemUsage":"2.104GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"4.19MB / 3.6MB","PIDs":"166"}
+{"sample_time":"2026-10-28T14:47:30Z"}
+{"BlockIO":"0B / 94.2kB","CPUPerc":"51.38%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"12.56%","MemUsage":"257.3MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"3.47MB / 1.96MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.3MB","CPUPerc":"142.75%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"52.17%","MemUsage":"2.087GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"5.18MB / 5.28MB","PIDs":"172"}
+{"sample_time":"2026-10-28T14:47:34Z"}
+{"BlockIO":"0B / 94.2kB","CPUPerc":"14.29%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"12.76%","MemUsage":"261.4MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"5.1MB / 2.87MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.3MB","CPUPerc":"89.95%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.80%","MemUsage":"2.072GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"5.74MB / 6.31MB","PIDs":"170"}
+{"sample_time":"2026-10-28T14:47:38Z"}
+{"BlockIO":"0B / 94.2kB","CPUPerc":"23.58%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"15.29%","MemUsage":"313MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"6.33MB / 3.54MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.3MB","CPUPerc":"82.01%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.81%","MemUsage":"2.072GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"6.44MB / 7.58MB","PIDs":"170"}
+{"sample_time":"2026-10-28T14:47:42Z"}
+{"BlockIO":"0B / 94.2kB","CPUPerc":"10.79%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"15.89%","MemUsage":"325.5MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"7.61MB / 4.21MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.3MB","CPUPerc":"77.86%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.69%","MemUsage":"2.067GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"7.1MB / 8.83MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:47:46Z"}
+{"BlockIO":"0B / 94.2kB","CPUPerc":"25.64%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"15.91%","MemUsage":"325.8MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"8.74MB / 4.82MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.3MB","CPUPerc":"69.96%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.61%","MemUsage":"2.064GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"7.71MB / 9.98MB","PIDs":"173"}
+{"sample_time":"2026-10-28T14:47:50Z"}
+{"BlockIO":"0B / 127kB","CPUPerc":"25.33%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"15.94%","MemUsage":"326.4MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"10.3MB / 5.74MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.3MB","CPUPerc":"94.38%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.61%","MemUsage":"2.064GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"8.58MB / 11.5MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:47:54Z"}
+{"BlockIO":"0B / 127kB","CPUPerc":"20.74%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"15.94%","MemUsage":"326.5MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"11.6MB / 6.51MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.3MB","CPUPerc":"83.77%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.63%","MemUsage":"2.065GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"9.39MB / 12.8MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:47:58Z"}
+{"BlockIO":"0B / 127kB","CPUPerc":"11.21%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"15.95%","MemUsage":"326.7MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"13MB / 7.27MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.3MB","CPUPerc":"84.47%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.32%","MemUsage":"2.053GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"10.1MB / 14.2MB","PIDs":"167"}
+{"sample_time":"2026-10-28T14:48:03Z"}
+{"BlockIO":"0B / 127kB","CPUPerc":"14.37%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"15.96%","MemUsage":"326.9MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"14.1MB / 7.91MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.3MB","CPUPerc":"138.37%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.30%","MemUsage":"2.052GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"10.8MB / 15.4MB","PIDs":"168"}
+{"sample_time":"2026-10-28T14:48:07Z"}
+{"BlockIO":"0B / 127kB","CPUPerc":"8.65%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"15.95%","MemUsage":"326.6MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"15.5MB / 8.61MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.3MB","CPUPerc":"76.82%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.29%","MemUsage":"2.051GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"11.5MB / 16.7MB","PIDs":"166"}
+{"sample_time":"2026-10-28T14:48:11Z"}
+{"BlockIO":"0B / 127kB","CPUPerc":"32.40%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"15.99%","MemUsage":"327.5MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"16.5MB / 9.17MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.3MB","CPUPerc":"70.65%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.28%","MemUsage":"2.051GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"12.1MB / 17.8MB","PIDs":"166"}
+{"sample_time":"2026-10-28T14:48:15Z"}
+{"BlockIO":"0B / 127kB","CPUPerc":"5.34%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.01%","MemUsage":"327.9MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"17.3MB / 9.57MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.3MB","CPUPerc":"43.30%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"52.29%","MemUsage":"2.091GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"12.5MB / 18.6MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:48:19Z"}
+{"BlockIO":"0B / 127kB","CPUPerc":"9.76%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.02%","MemUsage":"328.1MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"17.9MB / 9.9MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.3MB","CPUPerc":"80.98%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"52.30%","MemUsage":"2.092GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"12.9MB / 19.2MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:48:23Z"}
+{"BlockIO":"0B / 143kB","CPUPerc":"5.54%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.01%","MemUsage":"327.8MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"18.3MB / 10.1MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.3MB","CPUPerc":"107.56%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"52.43%","MemUsage":"2.097GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"13.2MB / 19.9MB","PIDs":"168"}
+{"sample_time":"2026-10-28T14:48:27Z"}
+{"BlockIO":"0B / 143kB","CPUPerc":"5.26%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.01%","MemUsage":"327.8MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"19MB / 10.5MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.4MB","CPUPerc":"23.97%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"52.41%","MemUsage":"2.097GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"13.4MB / 20.3MB","PIDs":"166"}
+{"sample_time":"2026-10-28T14:48:31Z"}
+{"BlockIO":"0B / 143kB","CPUPerc":"9.15%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.01%","MemUsage":"327.9MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"19.8MB / 10.9MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.4MB","CPUPerc":"41.59%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.27%","MemUsage":"2.051GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"13.9MB / 21.2MB","PIDs":"166"}
+{"sample_time":"2026-10-28T14:48:35Z"}
+{"BlockIO":"0B / 143kB","CPUPerc":"3.57%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.00%","MemUsage":"327.7MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"20.6MB / 11.3MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.4MB","CPUPerc":"48.38%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.42%","MemUsage":"2.057GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"14.3MB / 22MB","PIDs":"168"}
+{"sample_time":"2026-10-28T14:48:39Z"}
+{"BlockIO":"0B / 143kB","CPUPerc":"5.96%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.01%","MemUsage":"327.9MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"21.2MB / 11.7MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.4MB","CPUPerc":"88.18%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.37%","MemUsage":"2.055GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"14.6MB / 22.6MB","PIDs":"166"}
+{"sample_time":"2026-10-28T14:48:44Z"}
+{"BlockIO":"0B / 143kB","CPUPerc":"4.19%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.00%","MemUsage":"327.6MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"21.7MB / 11.9MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.4MB","CPUPerc":"97.24%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.49%","MemUsage":"2.06GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"14.9MB / 23.1MB","PIDs":"167"}
+{"sample_time":"2026-10-28T14:48:48Z"}
+{"BlockIO":"0B / 143kB","CPUPerc":"5.35%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.01%","MemUsage":"327.8MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"22.3MB / 12.3MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.4MB","CPUPerc":"23.25%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.29%","MemUsage":"2.052GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"15.2MB / 23.6MB","PIDs":"168"}
+{"sample_time":"2026-10-28T14:48:52Z"}
+{"BlockIO":"0B / 160kB","CPUPerc":"8.34%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.01%","MemUsage":"327.9MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"23.1MB / 12.7MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.4MB","CPUPerc":"46.07%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.29%","MemUsage":"2.052GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"15.7MB / 24.5MB","PIDs":"167"}
+{"sample_time":"2026-10-28T14:48:56Z"}
+{"BlockIO":"0B / 160kB","CPUPerc":"3.18%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.01%","MemUsage":"327.9MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"23.9MB / 13.1MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.4MB","CPUPerc":"57.66%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.37%","MemUsage":"2.055GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"16.1MB / 25.3MB","PIDs":"170"}
+{"sample_time":"2026-10-28T14:49:00Z"}
+{"BlockIO":"0B / 160kB","CPUPerc":"5.51%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.02%","MemUsage":"328.1MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"24.5MB / 13.4MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.4MB","CPUPerc":"97.99%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.34%","MemUsage":"2.054GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"16.4MB / 25.9MB","PIDs":"167"}
+{"sample_time":"2026-10-28T14:49:04Z"}
+{"BlockIO":"0B / 160kB","CPUPerc":"4.90%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.02%","MemUsage":"328.1MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"24.9MB / 13.6MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.4MB","CPUPerc":"104.49%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.91%","MemUsage":"2.076GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"16.8MB / 26.6MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:49:08Z"}
+{"BlockIO":"0B / 160kB","CPUPerc":"3.27%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.02%","MemUsage":"328.1MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"25.4MB / 13.9MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.4MB","CPUPerc":"49.72%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"52.04%","MemUsage":"2.082GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"17.1MB / 27.2MB","PIDs":"167"}
+{"sample_time":"2026-10-28T14:49:12Z"}
+{"BlockIO":"0B / 160kB","CPUPerc":"5.49%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.03%","MemUsage":"328.2MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"26.4MB / 14.4MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.4MB","CPUPerc":"46.67%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"52.03%","MemUsage":"2.081GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"17.4MB / 27.9MB","PIDs":"167"}
+{"sample_time":"2026-10-28T14:49:16Z"}
+{"BlockIO":"0B / 160kB","CPUPerc":"4.04%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.05%","MemUsage":"328.6MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"27.2MB / 14.9MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.4MB","CPUPerc":"99.90%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.62%","MemUsage":"2.065GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"17.9MB / 28.7MB","PIDs":"170"}
+{"sample_time":"2026-10-28T14:49:20Z"}
+{"BlockIO":"0B / 160kB","CPUPerc":"4.90%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.03%","MemUsage":"328.2MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"27.9MB / 15.2MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.4MB","CPUPerc":"95.82%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.62%","MemUsage":"2.065GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"18.2MB / 29.2MB","PIDs":"170"}
+{"sample_time":"2026-10-28T14:49:24Z"}
+{"BlockIO":"0B / 176kB","CPUPerc":"6.71%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.04%","MemUsage":"328.5MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"28.3MB / 15.5MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.4MB","CPUPerc":"67.59%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.60%","MemUsage":"2.064GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"18.5MB / 29.8MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:49:29Z"}
+{"BlockIO":"0B / 176kB","CPUPerc":"5.26%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.07%","MemUsage":"329.2MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"29MB / 15.8MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.4MB","CPUPerc":"32.77%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.60%","MemUsage":"2.064GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"18.7MB / 30.2MB","PIDs":"167"}
+{"sample_time":"2026-10-28T14:49:33Z"}
+{"BlockIO":"0B / 176kB","CPUPerc":"15.56%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.03%","MemUsage":"328.3MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"30.2MB / 16.4MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.4MB","CPUPerc":"53.40%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.62%","MemUsage":"2.065GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"19.2MB / 31.2MB","PIDs":"167"}
+{"sample_time":"2026-10-28T14:49:37Z"}
+{"BlockIO":"0B / 176kB","CPUPerc":"9.90%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.04%","MemUsage":"328.6MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"31.8MB / 17.3MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.4MB","CPUPerc":"138.08%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.66%","MemUsage":"2.066GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"20.2MB / 33MB","PIDs":"167"}
+{"sample_time":"2026-10-28T14:49:41Z"}
+{"BlockIO":"0B / 176kB","CPUPerc":"9.62%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.07%","MemUsage":"329MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"33.6MB / 18.2MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.5MB","CPUPerc":"118.34%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.66%","MemUsage":"2.066GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"21.1MB / 34.8MB","PIDs":"167"}
+{"sample_time":"2026-10-28T14:49:45Z"}
+{"BlockIO":"0B / 176kB","CPUPerc":"16.34%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.05%","MemUsage":"328.7MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"34.8MB / 18.9MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.5MB","CPUPerc":"127.61%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.18%","MemUsage":"2.047GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"21.7MB / 35.8MB","PIDs":"168"}
+{"sample_time":"2026-10-28T14:49:49Z"}
+{"BlockIO":"0B / 176kB","CPUPerc":"13.68%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.05%","MemUsage":"328.8MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"36.4MB / 19.8MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.5MB","CPUPerc":"104.88%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.20%","MemUsage":"2.048GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"23.1MB / 38.5MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:49:53Z"}
+{"BlockIO":"0B / 193kB","CPUPerc":"15.67%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.06%","MemUsage":"328.8MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"38.8MB / 21MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.5MB","CPUPerc":"84.27%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.53%","MemUsage":"2.061GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"23.7MB / 39.7MB","PIDs":"168"}
+{"sample_time":"2026-10-28T14:49:57Z"}
+{"BlockIO":"0B / 193kB","CPUPerc":"12.95%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.05%","MemUsage":"328.8MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"40.5MB / 21.9MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.5MB","CPUPerc":"111.46%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.73%","MemUsage":"2.069GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"24.7MB / 41.6MB","PIDs":"170"}
+{"sample_time":"2026-10-28T14:50:01Z"}
+{"BlockIO":"0B / 193kB","CPUPerc":"9.16%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.09%","MemUsage":"329.5MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"41.8MB / 22.6MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.5MB","CPUPerc":"107.91%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.47%","MemUsage":"2.059GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"25.8MB / 43.6MB","PIDs":"168"}
+{"sample_time":"2026-10-28T14:50:06Z"}
+{"BlockIO":"0B / 193kB","CPUPerc":"47.04%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.07%","MemUsage":"329.1MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"43.8MB / 23.7MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.5MB","CPUPerc":"109.31%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.46%","MemUsage":"2.059GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"26.1MB / 44.3MB","PIDs":"168"}
+{"sample_time":"2026-10-28T14:50:10Z"}
+{"BlockIO":"0B / 193kB","CPUPerc":"11.78%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.11%","MemUsage":"330MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"45.6MB / 24.6MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.5MB","CPUPerc":"120.61%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.50%","MemUsage":"2.06GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"27.4MB / 46.7MB","PIDs":"170"}
+{"sample_time":"2026-10-28T14:50:14Z"}
+{"BlockIO":"0B / 193kB","CPUPerc":"14.43%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.09%","MemUsage":"329.5MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"47.5MB / 25.6MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.6MB","CPUPerc":"98.27%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.48%","MemUsage":"2.059GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"28.4MB / 48.5MB","PIDs":"168"}
+{"sample_time":"2026-10-28T14:50:18Z"}
+{"BlockIO":"0B / 193kB","CPUPerc":"10.57%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.10%","MemUsage":"329.8MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"48.8MB / 26.3MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.6MB","CPUPerc":"169.19%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.54%","MemUsage":"2.062GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"29.5MB / 50.7MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:50:22Z"}
+{"BlockIO":"0B / 217kB","CPUPerc":"13.59%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.10%","MemUsage":"329.7MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"50.9MB / 27.4MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.6MB","CPUPerc":"170.84%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.53%","MemUsage":"2.061GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"30.2MB / 52.1MB","PIDs":"168"}
+{"sample_time":"2026-10-28T14:50:26Z"}
+{"BlockIO":"0B / 217kB","CPUPerc":"19.92%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.11%","MemUsage":"330MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"53MB / 28.5MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.6MB","CPUPerc":"126.76%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.53%","MemUsage":"2.061GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"31MB / 53.5MB","PIDs":"168"}
+{"sample_time":"2026-10-28T14:50:30Z"}
+{"BlockIO":"0B / 217kB","CPUPerc":"10.07%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.14%","MemUsage":"330.6MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"54.8MB / 29.4MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.6MB","CPUPerc":"108.94%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.53%","MemUsage":"2.061GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"32.3MB / 55.9MB","PIDs":"170"}
+{"sample_time":"2026-10-28T14:50:34Z"}
+{"BlockIO":"0B / 217kB","CPUPerc":"12.13%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.11%","MemUsage":"330MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"56.6MB / 30.4MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.6MB","CPUPerc":"98.08%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.47%","MemUsage":"2.059GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"33.2MB / 57.6MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:50:38Z"}
+{"BlockIO":"0B / 217kB","CPUPerc":"16.36%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.10%","MemUsage":"329.6MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"57.9MB / 31.1MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.6MB","CPUPerc":"135.11%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.93%","MemUsage":"2.077GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"34.4MB / 59.9MB","PIDs":"170"}
+{"sample_time":"2026-10-28T14:50:42Z"}
+{"BlockIO":"0B / 217kB","CPUPerc":"9.97%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.12%","MemUsage":"330.1MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"60MB / 32.2MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.6MB","CPUPerc":"145.58%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.46%","MemUsage":"2.059GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"35.1MB / 61.2MB","PIDs":"168"}
+{"sample_time":"2026-10-28T14:50:47Z"}
+{"BlockIO":"0B / 217kB","CPUPerc":"24.00%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.15%","MemUsage":"330.8MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"62MB / 33.3MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.6MB","CPUPerc":"130.71%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.44%","MemUsage":"2.058GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"35.8MB / 62.7MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:50:51Z"}
+{"BlockIO":"0B / 217kB","CPUPerc":"9.62%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.15%","MemUsage":"330.7MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"63.8MB / 34.2MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.6MB","CPUPerc":"168.80%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.47%","MemUsage":"2.059GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"37MB / 64.9MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:50:55Z"}
+{"BlockIO":"0B / 233kB","CPUPerc":"4.04%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.15%","MemUsage":"330.8MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"64.9MB / 34.8MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.6MB","CPUPerc":"40.21%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.47%","MemUsage":"2.059GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"37.7MB / 66.2MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:50:59Z"}
+{"BlockIO":"0B / 233kB","CPUPerc":"2.90%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.16%","MemUsage":"331MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"65.4MB / 35.1MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.6MB","CPUPerc":"47.04%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.46%","MemUsage":"2.058GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"38.1MB / 66.9MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:51:03Z"}
+{"BlockIO":"0B / 233kB","CPUPerc":"3.70%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.16%","MemUsage":"330.9MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"66MB / 35.4MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.7MB","CPUPerc":"81.19%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.37%","MemUsage":"2.055GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"38.4MB / 67.5MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:51:07Z"}
+{"BlockIO":"0B / 233kB","CPUPerc":"4.02%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.14%","MemUsage":"330.6MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"66.5MB / 35.6MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.7MB","CPUPerc":"82.37%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.28%","MemUsage":"2.051GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"38.6MB / 67.8MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:51:11Z"}
+{"BlockIO":"0B / 233kB","CPUPerc":"2.86%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.14%","MemUsage":"330.6MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"67.1MB / 36MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.7MB","CPUPerc":"81.71%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.30%","MemUsage":"2.052GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"39MB / 68.6MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:51:15Z"}
+{"BlockIO":"0B / 233kB","CPUPerc":"4.88%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.14%","MemUsage":"330.5MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"67.8MB / 36.3MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.7MB","CPUPerc":"31.23%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.29%","MemUsage":"2.052GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"39.3MB / 69.1MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:51:19Z"}
+{"BlockIO":"0B / 233kB","CPUPerc":"2.64%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.15%","MemUsage":"330.7MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"68.3MB / 36.6MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.7MB","CPUPerc":"40.31%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.30%","MemUsage":"2.052GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"39.7MB / 69.8MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:51:23Z"}
+{"BlockIO":"0B / 250kB","CPUPerc":"3.19%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.13%","MemUsage":"330.4MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"68.9MB / 36.9MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.7MB","CPUPerc":"78.46%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.57%","MemUsage":"2.063GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"40MB / 70.4MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:51:28Z"}
+{"BlockIO":"0B / 250kB","CPUPerc":"3.80%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.16%","MemUsage":"330.9MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"69.4MB / 37.2MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.7MB","CPUPerc":"90.46%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.57%","MemUsage":"2.063GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"40.2MB / 70.8MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:51:32Z"}
+{"BlockIO":"0B / 250kB","CPUPerc":"3.42%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.14%","MemUsage":"330.6MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"70MB / 37.5MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.7MB","CPUPerc":"33.35%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.56%","MemUsage":"2.062GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"40.5MB / 71.5MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:51:36Z"}
+{"BlockIO":"0B / 250kB","CPUPerc":"5.26%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.14%","MemUsage":"330.5MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"70.7MB / 37.9MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.7MB","CPUPerc":"26.09%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.57%","MemUsage":"2.063GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"40.8MB / 72MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:51:40Z"}
+{"BlockIO":"0B / 250kB","CPUPerc":"3.43%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.15%","MemUsage":"330.8MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"71.1MB / 38.1MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.7MB","CPUPerc":"28.52%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.57%","MemUsage":"2.063GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"41.2MB / 72.8MB","PIDs":"169"}
+{"sample_time":"2026-10-28T14:51:44Z"}
+{"BlockIO":"0B / 250kB","CPUPerc":"2.96%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.17%","MemUsage":"331.2MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"71.8MB / 38.5MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.7MB","CPUPerc":"81.15%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.58%","MemUsage":"2.063GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"41.5MB / 73.3MB","PIDs":"170"}
+{"sample_time":"2026-10-28T14:51:48Z"}
+{"BlockIO":"0B / 250kB","CPUPerc":"4.45%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.16%","MemUsage":"330.9MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"72.3MB / 38.8MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.7MB","CPUPerc":"79.38%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.56%","MemUsage":"2.063GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"41.7MB / 73.7MB","PIDs":"170"}
+{"sample_time":"2026-10-28T14:51:52Z"}
+{"BlockIO":"0B / 250kB","CPUPerc":"3.34%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.17%","MemUsage":"331.1MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"72.8MB / 39MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.7MB","CPUPerc":"78.77%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.59%","MemUsage":"2.064GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"42.2MB / 74.5MB","PIDs":"170"}
+{"sample_time":"2026-10-28T14:51:56Z"}
+{"BlockIO":"0B / 266kB","CPUPerc":"4.28%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.15%","MemUsage":"330.8MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"73.6MB / 39.5MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.7MB","CPUPerc":"33.46%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.45%","MemUsage":"2.058GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"42.4MB / 74.9MB","PIDs":"170"}
+{"sample_time":"2026-10-28T14:52:00Z"}
+{"BlockIO":"0B / 266kB","CPUPerc":"4.22%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.16%","MemUsage":"331MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"74MB / 39.7MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.7MB","CPUPerc":"27.84%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.46%","MemUsage":"2.059GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"42.8MB / 75.6MB","PIDs":"173"}
+{"sample_time":"2026-10-28T14:52:04Z"}
+{"BlockIO":"0B / 266kB","CPUPerc":"3.30%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.16%","MemUsage":"330.9MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"74.7MB / 40MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.7MB","CPUPerc":"88.96%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.47%","MemUsage":"2.059GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"43.1MB / 76.2MB","PIDs":"172"}
+{"sample_time":"2026-10-28T14:52:08Z"}
+{"BlockIO":"0B / 266kB","CPUPerc":"3.64%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.19%","MemUsage":"331.6MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"75.2MB / 40.3MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.8MB","CPUPerc":"55.82%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.48%","MemUsage":"2.059GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"43.3MB / 76.6MB","PIDs":"172"}
+{"sample_time":"2026-10-28T14:52:13Z"}
+{"BlockIO":"0B / 266kB","CPUPerc":"4.14%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.18%","MemUsage":"331.3MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"75.8MB / 40.7MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.8MB","CPUPerc":"19.30%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.48%","MemUsage":"2.059GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"43.6MB / 77.2MB","PIDs":"172"}
+{"sample_time":"2026-10-28T14:52:17Z"}
+{"BlockIO":"0B / 266kB","CPUPerc":"12.21%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.14%","MemUsage":"330.6MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"77.4MB / 41.5MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.8MB","CPUPerc":"94.84%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.47%","MemUsage":"2.059GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"44.3MB / 78.4MB","PIDs":"172"}
+{"sample_time":"2026-10-28T14:52:21Z"}
+{"BlockIO":"0B / 266kB","CPUPerc":"9.73%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.19%","MemUsage":"331.5MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"78.9MB / 42.3MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.8MB","CPUPerc":"95.54%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.87%","MemUsage":"2.075GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"45.2MB / 80.1MB","PIDs":"177"}
+{"sample_time":"2026-10-28T14:52:25Z"}
+{"BlockIO":"0B / 283kB","CPUPerc":"7.29%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.17%","MemUsage":"331.1MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"79.7MB / 42.7MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.9MB","CPUPerc":"105.85%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.44%","MemUsage":"2.057GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"45.9MB / 81.5MB","PIDs":"172"}
+{"sample_time":"2026-10-28T14:52:29Z"}
+{"BlockIO":"0B / 283kB","CPUPerc":"18.19%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.22%","MemUsage":"332.2MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"81.6MB / 43.7MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.9MB","CPUPerc":"110.42%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.42%","MemUsage":"2.057GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"47MB / 83.6MB","PIDs":"172"}
+{"sample_time":"2026-10-28T14:52:33Z"}
+{"BlockIO":"0B / 283kB","CPUPerc":"11.03%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.23%","MemUsage":"332.3MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"83.1MB / 44.5MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.9MB","CPUPerc":"125.24%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.42%","MemUsage":"2.057GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"47.9MB / 85.3MB","PIDs":"172"}
+{"sample_time":"2026-10-28T14:52:37Z"}
+{"BlockIO":"0B / 283kB","CPUPerc":"10.36%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.22%","MemUsage":"332.2MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"85.4MB / 45.8MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.9MB","CPUPerc":"92.30%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.45%","MemUsage":"2.058GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"48.6MB / 86.5MB","PIDs":"173"}
+{"sample_time":"2026-10-28T14:52:41Z"}
+{"BlockIO":"0B / 283kB","CPUPerc":"9.33%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.19%","MemUsage":"331.6MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"87MB / 46.6MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.9MB","CPUPerc":"89.10%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.42%","MemUsage":"2.057GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"49.5MB / 88.2MB","PIDs":"172"}
+{"sample_time":"2026-10-28T14:52:45Z"}
+{"BlockIO":"0B / 283kB","CPUPerc":"7.09%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.22%","MemUsage":"332.3MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"87.7MB / 47MB","PIDs":"24"}
+{"BlockIO":"215MB / 18.9MB","CPUPerc":"107.25%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.44%","MemUsage":"2.057GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"50.1MB / 89.5MB","PIDs":"173"}
+{"sample_time":"2026-10-28T14:52:50Z"}
+{"BlockIO":"0B / 283kB","CPUPerc":"12.70%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.23%","MemUsage":"332.3MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"90.3MB / 48.4MB","PIDs":"24"}
+{"BlockIO":"215MB / 19MB","CPUPerc":"107.24%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.44%","MemUsage":"2.058GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"51.2MB / 91.4MB","PIDs":"173"}
+{"sample_time":"2026-10-28T14:52:54Z"}
+{"BlockIO":"0B / 283kB","CPUPerc":"13.38%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.24%","MemUsage":"332.7MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"92MB / 49.3MB","PIDs":"24"}
+{"BlockIO":"215MB / 19MB","CPUPerc":"100.09%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.43%","MemUsage":"2.057GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"52MB / 93MB","PIDs":"173"}
+{"sample_time":"2026-10-28T14:52:58Z"}
+{"BlockIO":"0B / 299kB","CPUPerc":"9.25%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.23%","MemUsage":"332.5MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"93.6MB / 50.1MB","PIDs":"24"}
+{"BlockIO":"215MB / 19MB","CPUPerc":"88.93%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.44%","MemUsage":"2.058GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"53MB / 94.8MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:53:02Z"}
+{"BlockIO":"0B / 299kB","CPUPerc":"11.52%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.20%","MemUsage":"331.9MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"95.2MB / 51MB","PIDs":"24"}
+{"BlockIO":"215MB / 19MB","CPUPerc":"81.70%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.44%","MemUsage":"2.058GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"53.9MB / 96.4MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:53:06Z"}
+{"BlockIO":"0B / 299kB","CPUPerc":"8.57%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.24%","MemUsage":"332.6MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"96.6MB / 51.7MB","PIDs":"24"}
+{"BlockIO":"215MB / 19MB","CPUPerc":"127.66%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.37%","MemUsage":"2.055GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"54.6MB / 97.8MB","PIDs":"173"}
+{"sample_time":"2026-10-28T14:53:10Z"}
+{"BlockIO":"0B / 299kB","CPUPerc":"10.38%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.24%","MemUsage":"332.6MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"98.9MB / 52.9MB","PIDs":"24"}
+{"BlockIO":"215MB / 19MB","CPUPerc":"116.23%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.52%","MemUsage":"2.061GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"55.7MB / 99.9MB","PIDs":"173"}
+{"sample_time":"2026-10-28T14:53:14Z"}
+{"BlockIO":"0B / 299kB","CPUPerc":"14.38%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.22%","MemUsage":"332.1MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"100MB / 53.8MB","PIDs":"23"}
+{"BlockIO":"215MB / 19MB","CPUPerc":"142.24%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.52%","MemUsage":"2.061GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"56.6MB / 102MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:53:18Z"}
+{"BlockIO":"0B / 299kB","CPUPerc":"8.34%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.25%","MemUsage":"332.8MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"102MB / 54.6MB","PIDs":"24"}
+{"BlockIO":"215MB / 19MB","CPUPerc":"100.07%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.52%","MemUsage":"2.061GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"57.6MB / 103MB","PIDs":"173"}
+{"sample_time":"2026-10-28T14:53:22Z"}
+{"BlockIO":"0B / 299kB","CPUPerc":"10.08%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.23%","MemUsage":"332.4MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"103MB / 55.3MB","PIDs":"24"}
+{"BlockIO":"215MB / 19MB","CPUPerc":"138.50%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.51%","MemUsage":"2.061GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"58.6MB / 105MB","PIDs":"173"}
+{"sample_time":"2026-10-28T14:53:26Z"}
+{"BlockIO":"0B / 315kB","CPUPerc":"19.63%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.22%","MemUsage":"332.2MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"105MB / 56.1MB","PIDs":"24"}
+{"BlockIO":"215MB / 19MB","CPUPerc":"163.91%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.97%","MemUsage":"2.079GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"59.4MB / 107MB","PIDs":"175"}
+{"sample_time":"2026-10-28T14:53:31Z"}
+{"BlockIO":"0B / 315kB","CPUPerc":"11.65%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.23%","MemUsage":"332.4MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"108MB / 57.6MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"126.23%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.62%","MemUsage":"2.065GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"60.4MB / 109MB","PIDs":"173"}
+{"sample_time":"2026-10-28T14:53:35Z"}
+{"BlockIO":"0B / 315kB","CPUPerc":"11.12%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.23%","MemUsage":"332.4MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"109MB / 58.4MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"133.48%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.60%","MemUsage":"2.064GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"61.3MB / 110MB","PIDs":"173"}
+{"sample_time":"2026-10-28T14:53:39Z"}
+{"BlockIO":"0B / 315kB","CPUPerc":"2.28%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.25%","MemUsage":"332.9MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"109MB / 58.5MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"26.96%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.63%","MemUsage":"2.065GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"61.6MB / 111MB","PIDs":"173"}
+{"sample_time":"2026-10-28T14:53:43Z"}
+{"BlockIO":"0B / 315kB","CPUPerc":"4.36%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.23%","MemUsage":"332.4MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"110MB / 58.8MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"54.98%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.60%","MemUsage":"2.064GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"61.8MB / 111MB","PIDs":"173"}
+{"sample_time":"2026-10-28T14:53:47Z"}
+{"BlockIO":"0B / 315kB","CPUPerc":"5.64%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.22%","MemUsage":"332.2MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"110MB / 59MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"70.59%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.60%","MemUsage":"2.064GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"62.1MB / 112MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:53:51Z"}
+{"BlockIO":"0B / 315kB","CPUPerc":"4.08%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.23%","MemUsage":"332.3MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"111MB / 59.4MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"28.86%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.60%","MemUsage":"2.064GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"62.4MB / 112MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:53:55Z"}
+{"BlockIO":"0B / 315kB","CPUPerc":"7.44%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.22%","MemUsage":"332.2MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"111MB / 59.6MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"23.42%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.60%","MemUsage":"2.064GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"62.6MB / 113MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:53:59Z"}
+{"BlockIO":"0B / 332kB","CPUPerc":"2.76%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.23%","MemUsage":"332.4MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"112MB / 59.8MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"76.82%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.63%","MemUsage":"2.065GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"62.8MB / 113MB","PIDs":"177"}
+{"sample_time":"2026-10-28T14:54:03Z"}
+{"BlockIO":"0B / 332kB","CPUPerc":"4.18%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.26%","MemUsage":"332.9MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"112MB / 60.1MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"70.62%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.20%","MemUsage":"2.048GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"63.1MB / 114MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:54:07Z"}
+{"BlockIO":"0B / 332kB","CPUPerc":"3.57%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.27%","MemUsage":"333.2MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"113MB / 60.3MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"64.36%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.08%","MemUsage":"2.043GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"63.3MB / 114MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:54:11Z"}
+{"BlockIO":"0B / 332kB","CPUPerc":"3.73%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.25%","MemUsage":"332.9MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"113MB / 60.6MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"24.27%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.11%","MemUsage":"2.044GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"63.6MB / 115MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:54:16Z"}
+{"BlockIO":"0B / 332kB","CPUPerc":"7.37%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.23%","MemUsage":"332.4MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"114MB / 60.8MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"29.72%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.11%","MemUsage":"2.044GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"63.8MB / 115MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:54:20Z"}
+{"BlockIO":"0B / 332kB","CPUPerc":"2.37%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.24%","MemUsage":"332.6MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"114MB / 61MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"28.60%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.10%","MemUsage":"2.044GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"64MB / 115MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:54:24Z"}
+{"BlockIO":"0B / 332kB","CPUPerc":"4.33%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.25%","MemUsage":"332.8MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"114MB / 61.3MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"79.04%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.16%","MemUsage":"2.046GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"64.3MB / 116MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:54:28Z"}
+{"BlockIO":"0B / 348kB","CPUPerc":"5.22%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.24%","MemUsage":"332.5MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"115MB / 61.6MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"78.35%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.15%","MemUsage":"2.046GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"64.6MB / 116MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:54:32Z"}
+{"BlockIO":"0B / 348kB","CPUPerc":"3.30%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.23%","MemUsage":"332.5MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"115MB / 61.9MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"32.62%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.22%","MemUsage":"2.049GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"64.9MB / 117MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:54:36Z"}
+{"BlockIO":"0B / 348kB","CPUPerc":"6.94%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.23%","MemUsage":"332.4MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"116MB / 62.1MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"33.63%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.21%","MemUsage":"2.048GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"65.1MB / 117MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:54:40Z"}
+{"BlockIO":"0B / 348kB","CPUPerc":"3.59%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.24%","MemUsage":"332.6MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"116MB / 62.3MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"26.82%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.21%","MemUsage":"2.048GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"65.3MB / 118MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:54:44Z"}
+{"BlockIO":"0B / 348kB","CPUPerc":"3.29%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.25%","MemUsage":"332.8MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"117MB / 62.6MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"74.34%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.22%","MemUsage":"2.049GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"65.6MB / 118MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:54:48Z"}
+{"BlockIO":"0B / 348kB","CPUPerc":"4.23%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.26%","MemUsage":"333MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"117MB / 62.8MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"43.42%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.22%","MemUsage":"2.049GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"65.8MB / 119MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:54:52Z"}
+{"BlockIO":"0B / 348kB","CPUPerc":"3.82%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.23%","MemUsage":"332.4MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"118MB / 63.1MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"58.81%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.24%","MemUsage":"2.05GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"66.1MB / 119MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:54:56Z"}
+{"BlockIO":"0B / 348kB","CPUPerc":"7.21%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.23%","MemUsage":"332.4MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"118MB / 63.3MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"63.20%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.24%","MemUsage":"2.05GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"66.5MB / 120MB","PIDs":"177"}
+{"sample_time":"2026-10-28T14:55:01Z"}
+{"BlockIO":"0B / 365kB","CPUPerc":"9.31%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.25%","MemUsage":"332.7MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"120MB / 64.2MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"86.33%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.24%","MemUsage":"2.049GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"67.1MB / 121MB","PIDs":"177"}
+{"sample_time":"2026-10-28T14:55:05Z"}
+{"BlockIO":"0B / 365kB","CPUPerc":"11.33%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.20%","MemUsage":"331.8MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"121MB / 64.9MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"123.10%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.27%","MemUsage":"2.051GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"67.8MB / 122MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:55:09Z"}
+{"BlockIO":"0B / 365kB","CPUPerc":"10.56%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.23%","MemUsage":"332.5MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"123MB / 65.7MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.1MB","CPUPerc":"124.53%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.27%","MemUsage":"2.051GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"68.6MB / 124MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:55:13Z"}
+{"BlockIO":"0B / 365kB","CPUPerc":"7.42%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.27%","MemUsage":"333.2MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"125MB / 66.8MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.2MB","CPUPerc":"127.51%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.27%","MemUsage":"2.051GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"69.7MB / 126MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:55:17Z"}
+{"BlockIO":"0B / 365kB","CPUPerc":"8.37%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.25%","MemUsage":"332.7MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"126MB / 67.6MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.2MB","CPUPerc":"65.62%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.27%","MemUsage":"2.051GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"70.5MB / 127MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:55:21Z"}
+{"BlockIO":"0B / 365kB","CPUPerc":"10.29%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.24%","MemUsage":"332.6MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"128MB / 68.4MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.2MB","CPUPerc":"98.60%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.26%","MemUsage":"2.05GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"71.3MB / 129MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:55:25Z"}
+{"BlockIO":"0B / 381kB","CPUPerc":"7.99%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.24%","MemUsage":"332.5MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"129MB / 69MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.2MB","CPUPerc":"130.93%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.25%","MemUsage":"2.05GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"71.9MB / 130MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:55:29Z"}
+{"BlockIO":"0B / 381kB","CPUPerc":"18.10%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.23%","MemUsage":"332.4MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"130MB / 69.8MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.2MB","CPUPerc":"100.65%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.26%","MemUsage":"2.05GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"72.4MB / 131MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:55:33Z"}
+{"BlockIO":"0B / 381kB","CPUPerc":"9.65%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.22%","MemUsage":"332.2MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"132MB / 70.7MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.2MB","CPUPerc":"77.21%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.64%","MemUsage":"2.065GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"73.6MB / 133MB","PIDs":"176"}
+{"sample_time":"2026-10-28T14:55:37Z"}
+{"BlockIO":"0B / 381kB","CPUPerc":"7.24%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.25%","MemUsage":"332.9MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"133MB / 71.5MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.2MB","CPUPerc":"69.10%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.27%","MemUsage":"2.051GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"74.4MB / 135MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:55:42Z"}
+{"BlockIO":"0B / 381kB","CPUPerc":"8.99%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.27%","MemUsage":"333.3MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"135MB / 72.1MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.2MB","CPUPerc":"90.34%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.26%","MemUsage":"2.05GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"75.3MB / 137MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:55:46Z"}
+{"BlockIO":"0B / 381kB","CPUPerc":"8.63%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.25%","MemUsage":"332.9MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"136MB / 72.9MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.2MB","CPUPerc":"119.99%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.26%","MemUsage":"2.05GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"75.8MB / 137MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:55:50Z"}
+{"BlockIO":"0B / 381kB","CPUPerc":"26.98%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.29%","MemUsage":"333.5MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"138MB / 73.9MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.2MB","CPUPerc":"117.39%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.19%","MemUsage":"2.048GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"76.4MB / 138MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:55:54Z"}
+{"BlockIO":"0B / 397kB","CPUPerc":"10.80%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.28%","MemUsage":"333.5MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"139MB / 74.5MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.2MB","CPUPerc":"72.58%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.19%","MemUsage":"2.048GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"77.4MB / 140MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:55:58Z"}
+{"BlockIO":"0B / 397kB","CPUPerc":"8.40%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.28%","MemUsage":"333.4MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"141MB / 75.3MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.2MB","CPUPerc":"76.87%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.19%","MemUsage":"2.048GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"78.2MB / 142MB","PIDs":"175"}
+{"sample_time":"2026-10-28T14:56:02Z"}
+{"BlockIO":"0B / 397kB","CPUPerc":"9.11%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.28%","MemUsage":"333.5MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"142MB / 76.1MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.2MB","CPUPerc":"95.37%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.17%","MemUsage":"2.047GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"79MB / 143MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:56:06Z"}
+{"BlockIO":"0B / 397kB","CPUPerc":"16.80%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.27%","MemUsage":"333.2MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"144MB / 76.9MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.3MB","CPUPerc":"210.50%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.20%","MemUsage":"2.048GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"79.7MB / 145MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:56:10Z"}
+{"BlockIO":"0B / 397kB","CPUPerc":"22.40%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.30%","MemUsage":"333.8MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"146MB / 78MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.3MB","CPUPerc":"129.07%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.20%","MemUsage":"2.048GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"80.5MB / 146MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:56:14Z"}
+{"BlockIO":"0B / 397kB","CPUPerc":"7.51%","Container":"d5e5d7266b90","ID":"d5e5d7266b90","MemPerc":"16.26%","MemUsage":"333MiB / 2GiB","Name":"mini-rdg-study-bench-run-c01d35b677bb","NetIO":"146MB / 78.4MB","PIDs":"24"}
+{"BlockIO":"215MB / 19.3MB","CPUPerc":"87.54%","Container":"922b58ca04bf","ID":"922b58ca04bf","MemPerc":"51.20%","MemUsage":"2.048GiB / 4GiB","Name":"mini-rdg-study-cassandra-1","NetIO":"81.7MB / 148MB","PIDs":"174"}
+{"sample_time":"2026-10-28T14:56:19Z"}

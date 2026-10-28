@@ -1,0 +1,5 @@
+target/*
+!target/concurrency-study-1.0-SNAPSHOT.jar
+results
+.git
+SESSION_HISTORY.md

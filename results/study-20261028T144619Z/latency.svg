@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="592" viewBox="0 0 1100 592">
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="sans-serif" font-size="12" fill="#222">
+<text x="20" y="24">Successful-query p95 latency: median and min-max across runs (ms)</text>
+<text x="20" y="59">20 qps / FIFO_adaptive / large</text>
+<line x1="512.33" y1="55" x2="559.08" y2="55" stroke="#777" stroke-width="2"/>
+<circle cx="529.10" cy="55" r="4" fill="#1767a6"/>
+<text x="970" y="59">359.98 ms</text>
+<text x="20" y="91">20 qps / FIFO_adaptive / small</text>
+<line x1="474.74" y1="87" x2="477.77" y2="87" stroke="#777" stroke-width="2"/>
+<circle cx="477.57" cy="87" r="4" fill="#1767a6"/>
+<text x="970" y="91">172.79 ms</text>
+<text x="20" y="123">20 qps / FIFO_fixed / large</text>
+<line x1="494.04" y1="119" x2="494.86" y2="119" stroke="#777" stroke-width="2"/>
+<circle cx="494.84" cy="119" r="4" fill="#1767a6"/>
+<text x="970" y="123">235.53 ms</text>
+<text x="20" y="155">20 qps / FIFO_fixed / small</text>
+<line x1="466.48" y1="151" x2="467.53" y2="151" stroke="#777" stroke-width="2"/>
+<circle cx="467.25" cy="151" r="4" fill="#1767a6"/>
+<text x="970" y="155">135.30 ms</text>
+<text x="20" y="187">20 qps / ROUND_ROBIN_adaptive / large</text>
+<line x1="512.16" y1="183" x2="612.25" y2="183" stroke="#777" stroke-width="2"/>
+<circle cx="525.82" cy="183" r="4" fill="#1767a6"/>
+<text x="970" y="187">348.07 ms</text>
+<text x="20" y="219">20 qps / ROUND_ROBIN_adaptive / small</text>
+<line x1="453.43" y1="215" x2="454.41" y2="215" stroke="#777" stroke-width="2"/>
+<circle cx="453.73" cy="215" r="4" fill="#1767a6"/>
+<text x="970" y="219">86.19 ms</text>
+<text x="20" y="251">20 qps / ROUND_ROBIN_fixed / large</text>
+<line x1="486.54" y1="247" x2="500.88" y2="247" stroke="#777" stroke-width="2"/>
+<circle cx="498.63" cy="247" r="4" fill="#1767a6"/>
+<text x="970" y="251">249.30 ms</text>
+<text x="20" y="283">20 qps / ROUND_ROBIN_fixed / small</text>
+<line x1="452.72" y1="279" x2="454.32" y2="279" stroke="#777" stroke-width="2"/>
+<circle cx="453.10" cy="279" r="4" fill="#1767a6"/>
+<text x="970" y="283">83.92 ms</text>
+<text x="20" y="315">60 qps / FIFO_adaptive / large</text>
+<line x1="895.50" y1="311" x2="926.15" y2="311" stroke="#777" stroke-width="2"/>
+<circle cx="902.55" cy="311" r="4" fill="#1767a6"/>
+<text x="970" y="315">1716.49 ms</text>
+<text x="20" y="347">60 qps / FIFO_adaptive / small</text>
+<line x1="938.12" y1="343" x2="950.00" y2="343" stroke="#777" stroke-width="2"/>
+<circle cx="941.98" cy="343" r="4" fill="#1767a6"/>
+<text x="970" y="347">1859.73 ms</text>
+<text x="20" y="379">60 qps / FIFO_fixed / large</text>
+<line x1="728.14" y1="375" x2="901.85" y2="375" stroke="#777" stroke-width="2"/>
+<circle cx="826.39" cy="375" r="4" fill="#1767a6"/>
+<text x="970" y="379">1439.86 ms</text>
+<text x="20" y="411">60 qps / FIFO_fixed / small</text>
+<line x1="701.40" y1="407" x2="814.37" y2="407" stroke="#777" stroke-width="2"/>
+<circle cx="794.01" cy="407" r="4" fill="#1767a6"/>
+<text x="970" y="411">1322.25 ms</text>
+<text x="20" y="443">60 qps / ROUND_ROBIN_adaptive / large</text>
+<line x1="803.39" y1="439" x2="892.18" y2="439" stroke="#777" stroke-width="2"/>
+<circle cx="825.37" cy="439" r="4" fill="#1767a6"/>
+<text x="970" y="443">1436.16 ms</text>
+<text x="20" y="475">60 qps / ROUND_ROBIN_adaptive / small</text>
+<line x1="464.07" y1="471" x2="470.79" y2="471" stroke="#777" stroke-width="2"/>
+<circle cx="469.82" cy="471" r="4" fill="#1767a6"/>
+<text x="970" y="475">144.66 ms</text>
+<text x="20" y="507">60 qps / ROUND_ROBIN_fixed / large</text>
+<line x1="860.16" y1="503" x2="935.33" y2="503" stroke="#777" stroke-width="2"/>
+<circle cx="870.89" cy="503" r="4" fill="#1767a6"/>
+<text x="970" y="507">1601.51 ms</text>
+<text x="20" y="539">60 qps / ROUND_ROBIN_fixed / small</text>
+<line x1="455.84" y1="535" x2="461.62" y2="535" stroke="#777" stroke-width="2"/>
+<circle cx="461.38" cy="535" r="4" fill="#1767a6"/>
+<text x="970" y="539">113.99 ms</text>
+</g></svg>
