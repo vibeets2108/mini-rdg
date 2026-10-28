@@ -2,7 +2,7 @@ name: mini-rdg-study
 services:
   cassandra:
     image: cassandra:5.0.5
-    cpus: 4
+    cpus: ${CASSANDRA_CPUS:-4}
     mem_limit: 4g
     environment:
       MAX_HEAP_SIZE: 1536M

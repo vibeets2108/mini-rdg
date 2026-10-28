@@ -104,7 +104,8 @@ python3 scripts/analyze.py results/study-20261028T144619Z
 ```
 
 The archive includes code as well as data; extracting separately avoids
-overwriting changes in an existing checkout.
+overwriting changes in an existing checkout. The release identifies the source
+commit captured in the archive; later repository changes do not rewrite it.
 
 Each `results/study-TIMESTAMP` directory contains:
 
@@ -155,6 +156,12 @@ python3 -m unittest discover -s scripts -p 'test_*.py'
 
 Format Java with `mvn spotless:apply` using the same environment. To stop only
 this project's database manually, use `docker compose stop cassandra`.
+
+The GitHub workflow builds, runs unit tests, and checks complete graph results
+against Cassandra; it does not rerun the measured performance study. CI sets
+`CASSANDRA_CPUS=2` to fit the private repository's two-CPU runner. The default
+remains 4 CPUs, as used for the recorded study. An override changes the resource
+budget and must not be presented as reproducing the same performance conditions.
 
 No public publication has been performed. Publication and license selection
 require owner approval. Do not claim Netflix-scale capacity or undisclosed
