@@ -5,6 +5,8 @@
 Reading [Netflix's series on real time distributed graphs](https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-1-ingesting-and-processing-data-80113e124acc) made me wonder how a
 service should share storage capacity between queries of very different sizes.
 
+I used AI assistance to build the benchmark and draft this article.
+
 Suppose one query needs three storage reads and another needs 201. The service
 allows 64 reads at a time. If the large query fills the queue first, how long
 does the small query have to wait?
@@ -203,8 +205,8 @@ library, and excluded RPC overhead.
 Runs of 20 seconds and three repetitions describe short transients, not
 controller stability over longer periods. Every run/class group had fewer than 1,000
 successful samples, so I have not built a strong p99 claim around them.
-The charts mix healthy, slowdown, and recovery periods. Data grouped by
-arrival phase is retained separately.
+The reported latency percentiles mix healthy, slowdown, and recovery periods.
+Data grouped by arrival phase is retained separately.
 
 The results don't establish capacity at Netflix's scale or a general advantage
 for either policy.
@@ -224,15 +226,18 @@ cannot make the decision.
 
 ## Evidence and reproduction
 
-The code, complete configuration, and raw measurements will be available in
-the companion GitHub repository. They support reproducing the experiment and
+The code, complete configuration, and raw measurements are in
+the [companion GitHub repository](https://github.com/vibeets2108/mini-rdg).
+The [reviewed source snapshot](https://github.com/vibeets2108/mini-rdg/tree/aeaae381dcaa23de7252752c4b3baaea5a5e5f13)
+and [evidence release](https://github.com/vibeets2108/mini-rdg/releases/tag/study-20261028-review2)
+support reproducing the experiment and
 inspecting individual outcomes beyond the results presented here. The evidence
 bundle contains source, raw data from each run, and content checksums for
 study `study-20261028T144619Z`.
 
-*Editorial status: article text approved on 2026-10-28, not published. Before publishing, add the
-approved GitHub repository link, a specific code version, and the evidence
-release URL, then update the future tense above. No public destination or
-Medium draft has been selected. The repository's MIT license excludes this
-article text, whose rights are retained. Medium's required AI assistance
-disclosure still needs approval before a Medium version is prepared.*
+*Editorial status: article text and AI assistance disclosure approved on
+2026-10-28, not published. Repository, source snapshot, and evidence links are
+included for publication. The repository remains private and must become public
+with explicit approval before the Medium story is published. The repository's
+MIT license excludes this article text, whose rights are retained. Omit this
+editorial note from the Medium story.*
